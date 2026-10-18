@@ -23,6 +23,6 @@ public class PlayerDamagedInvincibility : MonoBehaviour
     public void StartInvincibility()
     {
         _invincibilityController.StartInvincibility(_invincibilityDuration, _flashColor, _numberOfFlashes);
-        Debug.Log("Flash!");
+    
     }
 }

@@ -6,14 +6,18 @@ public class SpriteFlash : MonoBehaviour
 {
     [SerializeField]
     private SpriteRenderer _spriteRenderer;
-    
 
     private void Awake()
     {
-       if (_spriteRenderer == null)
+        if (_spriteRenderer == null)
         {
             _spriteRenderer = GetComponentInChildren<SpriteRenderer>();
         }
+    }
+
+    public void StartFlash(float flashDuration, Color flashColor, int numberOfFlashes)
+    {
+        StartCoroutine(FlashCoroutine(flashDuration, flashColor, numberOfFlashes));
     }
 
     public IEnumerator FlashCoroutine(float flashDuration, Color flashColor, int numberOfFlashes)
