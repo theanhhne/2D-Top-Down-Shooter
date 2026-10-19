@@ -1924,6 +1924,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::CollectableSpawner
   _collectablePrefabs:
   - {fileID: 1462083054699603575, guid: 465266781fbcd0c4abd0afc621ac887f, type: 3}
+  - {fileID: 3192009640393733048, guid: 147d674543f39a44b85a857b3b937317, type: 3}
 --- !u!4 &1443828783
 Transform:
   m_ObjectHideFlags: 0

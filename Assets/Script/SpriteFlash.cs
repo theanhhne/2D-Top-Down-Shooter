@@ -6,6 +6,7 @@ public class SpriteFlash : MonoBehaviour
 {
     [SerializeField]
     private SpriteRenderer _spriteRenderer;
+    private Color _originalColor;
 
     private void Awake()
     {
@@ -13,16 +14,16 @@ public class SpriteFlash : MonoBehaviour
         {
             _spriteRenderer = GetComponentInChildren<SpriteRenderer>();
         }
+         _originalColor = _spriteRenderer.color;
     }
 
-    public void StartFlash(float flashDuration, Color flashColor, int numberOfFlashes)
+     public void StartFlash(float flashDuration, Color flashColor, int numberOfFlashes)
     {
         StartCoroutine(FlashCoroutine(flashDuration, flashColor, numberOfFlashes));
     }
 
     public IEnumerator FlashCoroutine(float flashDuration, Color flashColor, int numberOfFlashes)
     {
-        Color startColor = _spriteRenderer.color;
         float elapsedFlashTime = 0;
         float elapsedFlashPercentage = 0;
 
@@ -37,7 +38,7 @@ public class SpriteFlash : MonoBehaviour
             }
 
             float pingPongPercentage = Mathf.PingPong(elapsedFlashPercentage * 2 * numberOfFlashes, 1);
-            _spriteRenderer.color = Color.Lerp(startColor, flashColor, pingPongPercentage);
+            _spriteRenderer.color = Color.Lerp(_originalColor, flashColor, pingPongPercentage);
 
             yield return null;
         }
