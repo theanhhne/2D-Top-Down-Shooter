@@ -405,7 +405,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 868aa5145600ac4419d3af5b31517e55, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemyCollectableDrop
-  _chanceOfCollectableDrop: 0.3
+  _chanceOfCollectableDrop: 0.2
 --- !u!114 &8937265067196177566
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -500,6 +500,9 @@ MonoBehaviour:
   _bulletSpeed: 8
   _gunOffset: {fileID: 803532488}
   _timeBetweenShots: 0.2
+  _bulletCount: 1
+  _maxBulletCount: 3
+  _spreadAngle: 10
 --- !u!114 &342114539
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1925,6 +1928,11 @@ MonoBehaviour:
   _collectablePrefabs:
   - {fileID: 1462083054699603575, guid: 465266781fbcd0c4abd0afc621ac887f, type: 3}
   - {fileID: 3192009640393733048, guid: 147d674543f39a44b85a857b3b937317, type: 3}
+  - {fileID: 4138244936389880722, guid: f854286231cc08d4c84de12905485f56, type: 3}
+  _weights:
+  - 3
+  - 3
+  - 0.7
 --- !u!4 &1443828783
 Transform:
   m_ObjectHideFlags: 0
