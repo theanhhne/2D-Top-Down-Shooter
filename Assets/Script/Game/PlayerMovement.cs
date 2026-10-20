@@ -20,6 +20,21 @@ public class PlayerMovement : MonoBehaviour
     private Vector2 _movementInputSmoothVelocity;
     private Camera _camera;
     private Animator _animator;
+    private float _speedMultiplier = 1f;
+
+    public float SpeedMultiplier
+    {
+        get => _speedMultiplier;
+        set
+        {
+            _speedMultiplier = Mathf.Max(0f, value);
+
+            if (_animator != null)
+            {
+                _animator.speed = _speedMultiplier;
+            }
+        }
+    }
 
     private void Awake()
     {
@@ -48,7 +63,7 @@ public class PlayerMovement : MonoBehaviour
                     ref _movementInputSmoothVelocity,
                     0.1f);
 
-        _rigidbody.linearVelocity = _smoothedMovementInput * _speed;
+      _rigidbody.linearVelocity = _smoothedMovementInput * (_speed * _speedMultiplier);
 
         PreventPlayerGoingOffScreen();
     }

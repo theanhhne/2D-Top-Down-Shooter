@@ -91,6 +91,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 2247524933403776140, guid: 62934b76dd494764bb68d7a3655537f6, type: 3}
       insertIndex: -1
       addedObject: {fileID: 5416260278987563076}
+    - targetCorrespondingSourceObject: {fileID: 2247524933403776140, guid: 62934b76dd494764bb68d7a3655537f6, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 7755414482572449226}
   m_SourcePrefab: {fileID: 100100000, guid: 62934b76dd494764bb68d7a3655537f6, type: 3}
 --- !u!1 &3192009640393733048 stripped
 GameObject:
@@ -112,3 +115,17 @@ MonoBehaviour:
   _invincibilityDuration: 10
   _invincibilityColor: {r: 1, g: 1, b: 1, a: 0.53333336}
   _numberOfFlashes: 30
+--- !u!114 &7755414482572449226
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3192009640393733048}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a586e8e7942a204fa2e116944977623, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SpeedBoostCollectableBehaviour
+  _speedMultiplier: 1.5
+  _boostDuration: 3

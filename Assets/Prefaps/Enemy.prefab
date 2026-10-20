@@ -112,6 +112,7 @@ GameObject:
   - component: {fileID: 753911312208467856}
   - component: {fileID: 8937265067196177566}
   - component: {fileID: 3091294560699747078}
+  - component: {fileID: 3363790256083415294}
   m_Layer: 0
   m_Name: Enemy
   m_TagString: Untagged
@@ -434,3 +435,23 @@ MonoBehaviour:
   _flashDuration: 0.2
   _flashColor: {r: 1, g: 0, b: 0, a: 1}
   _numberOfFlashes: 1
+--- !u!114 &3363790256083415294
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2481106756387699943}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 393cd3ec398785d4ab3955763328f33c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EnemySFX
+  idleOrMoveClip: {fileID: 8300000, guid: 0842844e1e6ecc143a1c34608086d04a, type: 3}
+  damageClip: {fileID: 8300000, guid: d364b080033bf3448ac17c6229fe443a, type: 3}
+  player: {fileID: 0}
+  maxHearingDistance: 15
+  minVolume: 0
+  maxVolume: 0
+  soundInterval: 8
+  damageVolume: 0.8

@@ -24,6 +24,22 @@ public class PlayerShoot : MonoBehaviour
     [SerializeField] private int _maxBulletCount = 7;
     [SerializeField] private float _spreadAngle = 10f;
 
+    [Header("Gun SFX")]
+    [SerializeField] private AudioClip shootClip;
+    [SerializeField, Range(0f, 1f)] private float shootVolume = 0.7f;
+
+    private AudioSource audioSource;
+
+    private void Awake()
+    {
+        audioSource = GetComponent<AudioSource>();
+
+        if (audioSource == null)
+            audioSource = gameObject.AddComponent<AudioSource>();
+
+        audioSource.playOnAwake = false;
+        audioSource.spatialBlend = 0f;
+    }
 
     void Update()
     {
@@ -46,11 +62,23 @@ public class PlayerShoot : MonoBehaviour
     }
 
 
+    public void IncreaseMaxBullets(int amount)
+    {
+        _maxBulletCount += amount;
+    }
+
+
+   
     private void FireBullet()
     {
+        // Phát tiếng súng một lần cho mỗi lần bắn
+        if (shootClip != null)
+        {
+            audioSource.PlayOneShot(shootClip, shootVolume);
+        }
+
         for (int i = 0; i < _bulletCount; i++)
         {
-            // Trải đều các viên đạn quanh hướng đang nhìn, viên giữa thẳng hướng
             float angleOffset = (i - (_bulletCount - 1) / 2f) * _spreadAngle;
             Quaternion rotation = transform.rotation * Quaternion.Euler(0f, 0f, angleOffset);
 
@@ -60,6 +88,7 @@ public class PlayerShoot : MonoBehaviour
             rigidbody.linearVelocity = _bulletSpeed * (rotation * Vector3.up);
         }
     }
+
 
     private void OnAttack(InputValue inputValue)
     {

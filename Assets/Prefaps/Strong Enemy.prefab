@@ -14,7 +14,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 753911312208467856, guid: b011fea271e18b4469b0b5dd043d12b1, type: 3}
       propertyPath: _chanceOfCollectableDrop
-      value: 0.3
+      value: 0.4
       objectReference: {fileID: 0}
     - target: {fileID: 2481106756387699943, guid: b011fea271e18b4469b0b5dd043d12b1, type: 3}
       propertyPath: m_Name

@@ -1,24 +1,28 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
-
+ 
 public class Collectable : MonoBehaviour
 {
-    private ICollectableBehaviour _collectableBehaviour;
-
+    private ICollectableBehaviour[] _collectableBehaviours;
+ 
     private void Awake()
     {
-        _collectableBehaviour = GetComponent<ICollectableBehaviour>();
+        // Lấy all behaviour trên prefab, để một vật phẩm có thể có nhiều hiệu ứng
+        _collectableBehaviours = GetComponents<ICollectableBehaviour>();
     }
-
+ 
     private void OnTriggerEnter2D(Collider2D collision)
     {
         var player = collision.GetComponent<PlayerMovement>();
-
+ 
         if (player != null)
         {
-            _collectableBehaviour.OnCollected(player.gameObject);
+            foreach (ICollectableBehaviour behaviour in _collectableBehaviours)
+            {
+                behaviour.OnCollected(player.gameObject);
+            }
+ 
             Destroy(gameObject);
         }
     }
 }
+ 

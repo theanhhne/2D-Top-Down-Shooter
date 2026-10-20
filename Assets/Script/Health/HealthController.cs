@@ -48,13 +48,11 @@ public class HealthController : MonoBehaviour
             _currentHealth = 0;
         }
 
+        OnDamaged.Invoke();
+
         if (_currentHealth == 0)
         {
             OnDied.Invoke();
-        }
-        else
-        {
-            OnDamaged.Invoke();
         }
     }
 
