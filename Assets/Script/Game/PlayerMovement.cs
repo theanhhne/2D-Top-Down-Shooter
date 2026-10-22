@@ -97,7 +97,12 @@ public class PlayerMovement : MonoBehaviour
     }
 
     private void OnMove(InputValue inputValue)
+{
+    _movementInput = inputValue.Get<Vector2>();
+
+    if (_movementInput != Vector2.zero)
     {
-        _movementInput = inputValue.Get<Vector2>();
+        TutorialManager.Instance?.NotifyMovement();
     }
+}
 }

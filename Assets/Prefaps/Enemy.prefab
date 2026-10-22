@@ -113,6 +113,7 @@ GameObject:
   - component: {fileID: 8937265067196177566}
   - component: {fileID: 3091294560699747078}
   - component: {fileID: 3363790256083415294}
+  - component: {fileID: 2982446505040597489}
   m_Layer: 0
   m_Name: Enemy
   m_TagString: Untagged
@@ -274,8 +275,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a0603c36a70d574d8536dc51532eeed, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::HealthController
-  _currentHealth: 10
-  _maximumHealth: 10
+  _currentHealth: 20
+  _maximumHealth: 20
   OnDied:
     m_PersistentCalls:
       m_Calls:
@@ -455,3 +456,15 @@ MonoBehaviour:
   maxVolume: 0
   soundInterval: 8
   damageVolume: 0.8
+--- !u!114 &2982446505040597489
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2481106756387699943}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27fb385929cecfa42b52bc9026b80ef3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyWaveSpawner

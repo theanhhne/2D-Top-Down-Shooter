@@ -1,5 +1,5 @@
+
 using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -14,35 +14,60 @@ public class SceneFade : MonoBehaviour
 
     public IEnumerator FadeInCoroutine(float duration)
     {
-        Color startColor = new Color(_sceneFadeImage.color.r, _sceneFadeImage.color.g, _sceneFadeImage.color.b, 1);
-        Color targetColor = new Color(_sceneFadeImage.color.r, _sceneFadeImage.color.g, _sceneFadeImage.color.b, 0);
+        if (_sceneFadeImage == null)
+            yield break;
 
-        yield return FadeCoroutine(startColor, targetColor, duration);
+        gameObject.SetActive(true);
+
+        Color color = _sceneFadeImage.color;
+        color.a = 1f;
+        _sceneFadeImage.color = color;
+
+        yield return FadeCoroutine(0f, duration);
 
         gameObject.SetActive(false);
     }
 
     public IEnumerator FadeOutCoroutine(float duration)
     {
-        Color startColor = new Color(_sceneFadeImage.color.r, _sceneFadeImage.color.g, _sceneFadeImage.color.b, 0);
-        Color targetColor = new Color(_sceneFadeImage.color.r, _sceneFadeImage.color.g, _sceneFadeImage.color.b, 1);
+        if (_sceneFadeImage == null)
+            yield break;
 
         gameObject.SetActive(true);
-        yield return FadeCoroutine(startColor, targetColor, duration);
+
+        Color color = _sceneFadeImage.color;
+        color.a = 0f;
+        _sceneFadeImage.color = color;
+
+        yield return FadeCoroutine(1f, duration);
     }
 
-    private IEnumerator FadeCoroutine(Color startColor, Color targetColor, float duration)
+    private IEnumerator FadeCoroutine(float targetAlpha, float duration)
     {
-        float elapsedTime = 0;
-        float elapsedPercentage = 0;
+        Color color = _sceneFadeImage.color;
+        float startAlpha = color.a;
 
-        while (elapsedPercentage < 1)
+        if (duration <= 0f)
         {
-            elapsedPercentage = elapsedTime / duration;
-            _sceneFadeImage.color = Color.Lerp(startColor, targetColor, elapsedPercentage);
+            color.a = targetAlpha;
+            _sceneFadeImage.color = color;
+            yield break;
+        }
+
+        float elapsed = 0f;
+
+        while (elapsed < duration)
+        {
+            elapsed += Time.unscaledDeltaTime;
+
+            float t = Mathf.Clamp01(elapsed / duration);
+            color.a = Mathf.Lerp(startAlpha, targetAlpha, t);
+            _sceneFadeImage.color = color;
 
             yield return null;
-            elapsedTime += Time.deltaTime;
         }
+
+        color.a = targetAlpha;
+        _sceneFadeImage.color = color;
     }
 }

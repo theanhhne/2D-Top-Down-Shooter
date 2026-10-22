@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: 45261834289f4fe4a9f6484ea5c1eb8c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3186485853011140420
+    second: Minimal White Refresh Icon_0
+  - first:
+      213: 2892421018793593502
+    second: Minimal White Refresh Icon_1
+  - first:
+      213: 3023774985100156888
+    second: Minimal White Refresh Icon_2
+  - first:
+      213: 5387585155594230616
+    second: Minimal White Refresh Icon_3
+  - first:
+      213: 1123898279597788314
+    second: Minimal White Refresh Icon_4
+  - first:
+      213: 4836470230515544582
+    second: Minimal White Refresh Icon_5
+  - first:
+      213: -5160260631371563608
+    second: Minimal White Refresh Icon_6
+  - first:
+      213: 1313511637311428812
+    second: Minimal White Refresh Icon_7
+  - first:
+      213: -2482091775669053856
+    second: Minimal White Refresh Icon_8
+  - first:
+      213: 5664306511269643616
+    second: Minimal White Refresh Icon_9
+  - first:
+      213: 1014814894909459604
+    second: Minimal White Refresh Icon_10
+  - first:
+      213: 1020792712103215959
+    second: Minimal White Refresh Icon_11
+  - first:
+      213: 5510193490924634985
+    second: Minimal White Refresh Icon_12
+  - first:
+      213: -2847052053863783320
+    second: Minimal White Refresh Icon_13
+  - first:
+      213: -378330760461634076
+    second: Minimal White Refresh Icon_14
+  - first:
+      213: 1158412908475858939
+    second: Minimal White Refresh Icon_15
+  - first:
+      213: 4527342547745048526
+    second: Minimal White Refresh Icon_16
+  - first:
+      213: 8430177595851170011
+    second: Minimal White Refresh Icon_17
+  - first:
+      213: 6541929402530101799
+    second: Minimal White Refresh Icon_18
+  - first:
+      213: 7229347256329114992
+    second: Minimal White Refresh Icon_19
+  - first:
+      213: 681034692341753377
+    second: Minimal White Refresh Icon_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Minimal White Refresh Icon_0
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 88
+        width: 816
+        height: 1009
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f5986200ca83c20800000000000000
+      internalID: 3186485853011140420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minimal White Refresh Icon_1
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 939
+        width: 102
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ac0168791f32820800000000000000
+      internalID: 2892421018793593502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minimal White Refresh Icon_2
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 982
+        width: 26
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df5b9b045b96f920800000000000000
+      internalID: 3023774985100156888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minimal White Refresh Icon_3
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 975
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b9c54872c84ca40800000000000000
+      internalID: 5387585155594230616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minimal White Refresh Icon_4
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 973
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c4917d783e89f00800000000000000
+      internalID: 1123898279597788314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minimal White Refresh Icon_5
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 971
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60271a8cc089e1340800000000000000
+      internalID: 4836470230515544582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minimal White Refresh Icon_6
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 968
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad3aa6cb421368b0800000000000000
+      internalID: -5160260631371563608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minimal White Refresh Icon_7
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 965
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc81a46ffd78a3210800000000000000
+      internalID: 1313511637311428812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minimal White Refresh Icon_8
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 978
+        width: 176
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066d3534ea6dd8dd0800000000000000
+      internalID: -2482091775669053856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minimal White Refresh Icon_9
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 949
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 065c82fd2c8ab9e40800000000000000
+      internalID: 5664306511269643616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minimal White Refresh Icon_10
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 948
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c8adb25c8551e00800000000000000
+      internalID: 1014814894909459604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minimal White Refresh Icon_11
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 923
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753483230959a2e00800000000000000
+      internalID: 1020792712103215959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minimal White Refresh Icon_12
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 877
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9638b3629c3287c40800000000000000
+      internalID: 5510193490924634985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minimal White Refresh Icon_13
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 700
+        width: 124
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8642768cd3d3d78d0800000000000000
+      internalID: -2847052053863783320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minimal White Refresh Icon_14
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 859
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5b4178d26efbaf0800000000000000
+      internalID: -378330760461634076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minimal White Refresh Icon_15
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 827
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff3ee81762831010800000000000000
+      internalID: 1158412908475858939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minimal White Refresh Icon_16
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 828
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec70bde6f0a54de30800000000000000
+      internalID: 4527342547745048526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minimal White Refresh Icon_17
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 582
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd06a22cbd10ef470800000000000000
+      internalID: 8430177595851170011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minimal White Refresh Icon_18
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 573
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a7d77812a99ca50800000000000000
+      internalID: 6541929402530101799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minimal White Refresh Icon_19
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 303
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0751173e60dc35460800000000000000
+      internalID: 7229347256329114992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minimal White Refresh Icon_20
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 328
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1266fb4c175837900800000000000000
+      internalID: 681034692341753377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Minimal White Refresh Icon_0: 3186485853011140420
+      Minimal White Refresh Icon_1: 2892421018793593502
+      Minimal White Refresh Icon_10: 1014814894909459604
+      Minimal White Refresh Icon_11: 1020792712103215959
+      Minimal White Refresh Icon_12: 5510193490924634985
+      Minimal White Refresh Icon_13: -2847052053863783320
+      Minimal White Refresh Icon_14: -378330760461634076
+      Minimal White Refresh Icon_15: 1158412908475858939
+      Minimal White Refresh Icon_16: 4527342547745048526
+      Minimal White Refresh Icon_17: 8430177595851170011
+      Minimal White Refresh Icon_18: 6541929402530101799
+      Minimal White Refresh Icon_19: 7229347256329114992
+      Minimal White Refresh Icon_2: 3023774985100156888
+      Minimal White Refresh Icon_20: 681034692341753377
+      Minimal White Refresh Icon_3: 5387585155594230616
+      Minimal White Refresh Icon_4: 1123898279597788314
+      Minimal White Refresh Icon_5: 4836470230515544582
+      Minimal White Refresh Icon_6: -5160260631371563608
+      Minimal White Refresh Icon_7: 1313511637311428812
+      Minimal White Refresh Icon_8: -2482091775669053856
+      Minimal White Refresh Icon_9: 5664306511269643616
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

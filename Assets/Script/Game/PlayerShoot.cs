@@ -70,24 +70,37 @@ public class PlayerShoot : MonoBehaviour
 
    
     private void FireBullet()
+{
+    // Phát tiếng súng một lần cho mỗi lần bắn
+    if (shootClip != null)
     {
-        // Phát tiếng súng một lần cho mỗi lần bắn
-        if (shootClip != null)
-        {
-            audioSource.PlayOneShot(shootClip, shootVolume);
-        }
-
-        for (int i = 0; i < _bulletCount; i++)
-        {
-            float angleOffset = (i - (_bulletCount - 1) / 2f) * _spreadAngle;
-            Quaternion rotation = transform.rotation * Quaternion.Euler(0f, 0f, angleOffset);
-
-            GameObject bullet = Instantiate(_bulletPrefab, _gunOffset.position, rotation);
-            Rigidbody2D rigidbody = bullet.GetComponent<Rigidbody2D>();
-
-            rigidbody.linearVelocity = _bulletSpeed * (rotation * Vector3.up);
-        }
+        audioSource.PlayOneShot(shootClip, shootVolume);
     }
+
+    for (int i = 0; i < _bulletCount; i++)
+    {
+        float angleOffset =
+            (i - (_bulletCount - 1) / 2f) * _spreadAngle;
+
+        Quaternion rotation =
+            transform.rotation *
+            Quaternion.Euler(0f, 0f, angleOffset);
+
+        GameObject bullet = Instantiate(
+            _bulletPrefab,
+            _gunOffset.position,
+            rotation
+        );
+
+        Rigidbody2D rigidbody = bullet.GetComponent<Rigidbody2D>();
+
+        rigidbody.linearVelocity =
+            _bulletSpeed * (rotation * Vector3.up);
+    }
+
+    // Báo tutorial khi nhân vật đã thực hiện bắn.
+    TutorialManager.Instance?.NotifyShot();
+}
 
 
     private void OnAttack(InputValue inputValue)
