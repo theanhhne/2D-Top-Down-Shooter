@@ -2915,7 +2915,7 @@ MonoBehaviour:
   bossHealthPerMilestone: 500
   bossDamagePerMilestone: 10
   timeBetweenWaves: 3
-  startingWave: 1
+  startingWave: 5
   waveUI: {fileID: 897337803}
 --- !u!4 &834861333
 Transform:

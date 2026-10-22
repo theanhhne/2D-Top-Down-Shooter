@@ -15,8 +15,8 @@ public class WaveManager : MonoBehaviour
 
     [Header("Normal Enemy Counts")]
     [SerializeField, Min(0)] private int wave1EnemyCount = 15;
-    [SerializeField, Min(0)] private int wave2EnemyCount = 30;
-    [SerializeField, Min(0)] private int wave3EnemyCount = 50;
+    [SerializeField, Min(0)] private int wave2EnemyCount = 20;
+    [SerializeField, Min(0)] private int wave3EnemyCount = 25;
 
     [Header("Difficulty Scaling")]
     [SerializeField, Min(0f)] private float normalEnemyGrowthPercent = 25f;
@@ -176,7 +176,7 @@ public class WaveManager : MonoBehaviour
 
         foreach (EnemySpawner spawner in strongMobSpawners)
             if (spawner.IsSpawning) return;
-
+        if (bossSpawner.IsSpawning) return;
         if (aliveEnemies > 0) return;
 
         if (IsBossWave(currentWave) && !bossSpawned)

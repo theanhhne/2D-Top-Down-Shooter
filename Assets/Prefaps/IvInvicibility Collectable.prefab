@@ -112,7 +112,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 653e5385ae2d26e4fb0c384c13524af8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::InvincibilityCollectableBehaviour
-  _invincibilityDuration: 10
+  _invincibilityDuration: 2
   _invincibilityColor: {r: 1, g: 1, b: 1, a: 0.53333336}
   _numberOfFlashes: 30
 --- !u!114 &7755414482572449226
