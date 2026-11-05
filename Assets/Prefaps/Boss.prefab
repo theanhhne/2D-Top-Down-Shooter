@@ -12,6 +12,10 @@ PrefabInstance:
       propertyPath: _damageAmount
       value: 30
       objectReference: {fileID: 0}
+    - target: {fileID: -3734523404672589274, guid: b011fea271e18b4469b0b5dd043d12b1, type: 3}
+      propertyPath: duration
+      value: 0.1
+      objectReference: {fileID: 0}
     - target: {fileID: 753911312208467856, guid: b011fea271e18b4469b0b5dd043d12b1, type: 3}
       propertyPath: _chanceOfCollectableDrop
       value: 1

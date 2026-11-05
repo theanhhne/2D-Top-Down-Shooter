@@ -11,6 +11,10 @@ public class GameFeelManager : MonoBehaviour
     private Coroutine _shakeCoroutine;
     private Vector3 _originalLocalPos;
 
+    private Coroutine _hitStopCoroutine;
+    private bool _isHitStopping;
+    private float _currentHitStopTimeScale;
+
     private void Awake()
     {
         if (Instance != null && Instance != this)
@@ -76,6 +80,57 @@ public class GameFeelManager : MonoBehaviour
         _shakeCoroutine = null;
     }
 
+    public void HitStop(float duration, float timeScale = 0.05f)
+    {
+        // (1) Kiểm tra thời lượng; (3) nếu đang pause (timeScale == 0) thì bỏ qua
+        if (duration <= 0f || Mathf.Approximately(Time.timeScale, 0f))
+            return;
+
+        // (5) nếu đang có hit-stop khác thì không chồng lên nhau
+        if (_isHitStopping)
+            return;
+
+        _hitStopCoroutine = StartCoroutine(HitStopRoutine(duration, timeScale));
+    }
+
+    private IEnumerator HitStopRoutine(float duration, float targetTimeScale)
+    {
+        _isHitStopping = true;
+        _currentHitStopTimeScale = targetTimeScale;
+        Time.timeScale = targetTimeScale;
+
+        // (2) Chờ bằng WaitForSecondsRealtime
+        yield return new WaitForSecondsRealtime(duration);
+
+        // (4) khi hết thời gian chỉ khôi phục về 1 nếu Time.timeScale vẫn đúng bằng giá trị hit-stop (không ai khác đổi nó)
+        if (Mathf.Approximately(Time.timeScale, targetTimeScale))
+        {
+            Time.timeScale = 1f;
+        }
+
+        _isHitStopping = false;
+        _hitStopCoroutine = null;
+    }
+
+    private void ResetHitStop()
+    {
+        if (_hitStopCoroutine != null)
+        {
+            StopCoroutine(_hitStopCoroutine);
+            _hitStopCoroutine = null;
+        }
+
+        if (_isHitStopping)
+        {
+            // (6) trong OnDisable/OnDestroy nếu đang trong hit-stop thì khôi phục timeScale về 1
+            if (Mathf.Approximately(Time.timeScale, _currentHitStopTimeScale))
+            {
+                Time.timeScale = 1f;
+            }
+            _isHitStopping = false;
+        }
+    }
+
     private void OnDisable()
     {
         if (_shakeCoroutine != null)
@@ -87,5 +142,12 @@ public class GameFeelManager : MonoBehaviour
                 targetCamera.transform.localPosition = _originalLocalPos;
             }
         }
+
+        ResetHitStop();
+    }
+
+    private void OnDestroy()
+    {
+        ResetHitStop();
     }
 }

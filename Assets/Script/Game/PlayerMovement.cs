@@ -46,8 +46,8 @@ public class PlayerMovement : MonoBehaviour
     private void FixedUpdate()
     {
         SetPlayerVelocity();
-        RotateInDirectionOfInput();
         SetAnimation();
+        RotateTowardsMouse();
     }
     private void SetAnimation()
     {
@@ -63,7 +63,11 @@ public class PlayerMovement : MonoBehaviour
                     ref _movementInputSmoothVelocity,
                     0.1f);
 
-      _rigidbody.linearVelocity = _smoothedMovementInput * (_speed * _speedMultiplier);
+      Vector2 moveDirection =
+    (Vector2)transform.right * _smoothedMovementInput.x +
+    (Vector2)transform.up * _smoothedMovementInput.y;
+
+_rigidbody.linearVelocity = moveDirection * (_speed * _speedMultiplier);
 
         PreventPlayerGoingOffScreen();
     }
@@ -95,6 +99,23 @@ public class PlayerMovement : MonoBehaviour
             _rigidbody.MoveRotation(rotation);
         }
     }
+    private void RotateTowardsMouse()
+{
+    if (Mouse.current == null || _camera == null) return;
+
+    Vector2 mouseScreen = Mouse.current.position.ReadValue();
+    Vector3 mouseWorld = _camera.ScreenToWorldPoint(new Vector3(
+        mouseScreen.x, mouseScreen.y, Mathf.Abs(_camera.transform.position.z)));
+
+    Vector2 direction = (Vector2)mouseWorld - _rigidbody.position;
+    if (direction.sqrMagnitude < 0.0001f) return;
+
+    Quaternion target = Quaternion.LookRotation(Vector3.forward, direction);
+    Quaternion rotation = Quaternion.RotateTowards(
+        transform.rotation, target, _rotationSpeed * Time.fixedDeltaTime);
+
+    _rigidbody.MoveRotation(rotation);
+}
 
     private void OnMove(InputValue inputValue)
 {

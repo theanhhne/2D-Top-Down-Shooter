@@ -189,6 +189,7 @@ GameObject:
   - component: {fileID: 3091294560699747078}
   - component: {fileID: 3363790256083415294}
   - component: {fileID: 2982446505040597489}
+  - component: {fileID: -3734523404672589274}
   m_Layer: 0
   m_Name: Enemy
   m_TagString: Untagged
@@ -544,6 +545,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27fb385929cecfa42b52bc9026b80ef3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemyWaveSpawner
+--- !u!114 &-3734523404672589274
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2481106756387699943}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf7206cbea0a39345a90d1386ca19545, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyDeathHitStop
+  duration: 0.03
+  timeScale: 0.05
+  healthController: {fileID: 0}
 --- !u!1 &4009073966811962267
 GameObject:
   m_ObjectHideFlags: 0
