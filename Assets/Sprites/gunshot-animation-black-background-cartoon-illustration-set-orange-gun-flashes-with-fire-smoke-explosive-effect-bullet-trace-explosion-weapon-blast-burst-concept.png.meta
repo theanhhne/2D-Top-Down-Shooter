@@ -1,0 +1,1794 @@
+fileFormatVersion: 2
+guid: b7787e71f0e1dff43bc2f304fe837f01
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 479112662079884614
+    second: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_0
+  - first:
+      213: 4366853496792732779
+    second: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_1
+  - first:
+      213: 6562679951647719517
+    second: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_2
+  - first:
+      213: -7772475803308166786
+    second: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_3
+  - first:
+      213: 9195600389502400723
+    second: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_4
+  - first:
+      213: 2739150279825835952
+    second: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_5
+  - first:
+      213: -106807157547182729
+    second: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_6
+  - first:
+      213: -8763350292282733653
+    second: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_7
+  - first:
+      213: 1069543332851030358
+    second: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_8
+  - first:
+      213: -532406689795374536
+    second: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_9
+  - first:
+      213: -9169678794381101126
+    second: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_10
+  - first:
+      213: 1774217602475581545
+    second: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_11
+  - first:
+      213: -1490368065380256073
+    second: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_12
+  - first:
+      213: -8244442138715362661
+    second: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_13
+  - first:
+      213: 5531717600681049649
+    second: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_14
+  - first:
+      213: -9218022408183063381
+    second: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_15
+  - first:
+      213: 2971044498470091148
+    second: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_16
+  - first:
+      213: -1942348835691837390
+    second: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_17
+  - first:
+      213: -7324786174755916644
+    second: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_18
+  - first:
+      213: -197088670109776195
+    second: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_19
+  - first:
+      213: 6814051084915849600
+    second: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_20
+  - first:
+      213: 2647810889401328535
+    second: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_21
+  - first:
+      213: -4534153301367089252
+    second: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_22
+  - first:
+      213: 8295709962002311250
+    second: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_23
+  - first:
+      213: 2993267213165016861
+    second: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_24
+  - first:
+      213: 4753733738041339466
+    second: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_25
+  - first:
+      213: -5671727625381245423
+    second: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_26
+  - first:
+      213: 4147886011125049723
+    second: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_27
+  - first:
+      213: 5016258324883616301
+    second: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_28
+  - first:
+      213: -3096852433659894568
+    second: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_29
+  - first:
+      213: -6894246577750029258
+    second: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_30
+  - first:
+      213: -2587083574947515745
+    second: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_31
+  - first:
+      213: 8209206334712594861
+    second: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_32
+  - first:
+      213: 1339222617595327093
+    second: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_33
+  - first:
+      213: 1529338701528991891
+    second: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_34
+  - first:
+      213: -4773407092411856846
+    second: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_35
+  - first:
+      213: -7995676950757485606
+    second: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_36
+  - first:
+      213: -1606000810969410207
+    second: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_37
+  - first:
+      213: -8309212354347973595
+    second: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_38
+  - first:
+      213: -8182873430724216450
+    second: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_39
+  - first:
+      213: 652039879370117972
+    second: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_40
+  - first:
+      213: 5465867914894659904
+    second: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_41
+  - first:
+      213: -966642034455426980
+    second: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_42
+  - first:
+      213: 7964383167174442060
+    second: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_43
+  - first:
+      213: -2843913329598983070
+    second: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_44
+  - first:
+      213: -4485817339172994988
+    second: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_45
+  - first:
+      213: -5142864885742912357
+    second: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_46
+  - first:
+      213: -1490679823787088346
+    second: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_47
+  - first:
+      213: -3943583982730473134
+    second: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_48
+  - first:
+      213: -1647208127448221960
+    second: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_49
+  - first:
+      213: 7405686748732538940
+    second: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_50
+  - first:
+      213: -1363397516400442984
+    second: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_51
+  - first:
+      213: 6862171260465627701
+    second: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_52
+  - first:
+      213: 6898496346885937059
+    second: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_53
+  - first:
+      213: -985030340127029706
+    second: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_54
+  - first:
+      213: 7253846667008270983
+    second: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_55
+  - first:
+      213: -8060896108864313337
+    second: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_56
+  - first:
+      213: 1433288986506865422
+    second: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_57
+  - first:
+      213: -7683248777966321242
+    second: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_58
+  - first:
+      213: 4234531716163115547
+    second: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_59
+  - first:
+      213: 8602708502207436249
+    second: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_60
+  - first:
+      213: -4586703376348693965
+    second: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_61
+  - first:
+      213: 6015185812498903020
+    second: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_62
+  - first:
+      213: -6955994058861694675
+    second: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_0
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1625
+        width: 224
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64dc9ae7d6626a600800000000000000
+      internalID: 479112662079884614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_1
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 1827
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64d0866e1e2a9c30800000000000000
+      internalID: 4366853496792732779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_2
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1614
+        width: 180
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d504a8c35a2531b50800000000000000
+      internalID: 6562679951647719517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_3
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1627
+        width: 276
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e717f7eef6e922490800000000000000
+      internalID: -7772475803308166786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_4
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1784
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8fbb875d55d9f70800000000000000
+      internalID: 9195600389502400723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_5
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1696
+        width: 220
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b74e67baaa630620800000000000000
+      internalID: 2739150279825835952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_6
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1664
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7755ee2c47b848ef0800000000000000
+      internalID: -106807157547182729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_7
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1647
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab0c22e653526680800000000000000
+      internalID: -8763350292282733653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_8
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1228
+        width: 251
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659197a9ef7c7de00800000000000000
+      internalID: 1069543332851030358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_9
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1500
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83284babfe28c98f0800000000000000
+      internalID: -532406689795374536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_10
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1400
+        width: 119
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab77b7438b1ceb080800000000000000
+      internalID: -9169678794381101126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1462
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9606dcd52894f9810800000000000000
+      internalID: 1774217602475581545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_12
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1397
+        width: 140
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b67c6e0426215be0800000000000000
+      internalID: -1490368065380256073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_13
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1310
+        width: 251
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9aeb964e8bd59d80800000000000000
+      internalID: -8244442138715362661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_14
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1438
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ebe5a79db94cc40800000000000000
+      internalID: 5531717600681049649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_15
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1411
+        width: 51
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac58ac7571031080800000000000000
+      internalID: -9218022408183063381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_16
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 1265
+        width: 140
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c893037ea354b3920800000000000000
+      internalID: 2971044498470091148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_17
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 1382
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238c1b266046b05e0800000000000000
+      internalID: -1942348835691837390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_18
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1347
+        width: 182
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c943bfd48c1295a90800000000000000
+      internalID: -7324786174755916644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_19
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1363
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db64ad416ecc34df0800000000000000
+      internalID: -197088670109776195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_20
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1293
+        width: 109
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08936cdfb5f509e50800000000000000
+      internalID: 6814051084915849600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_21
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1343
+        width: 55
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7936d27a9f9eeb420800000000000000
+      internalID: 2647810889401328535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_22
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 1316
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9799da68937311c0800000000000000
+      internalID: -4534153301367089252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_23
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1327
+        width: 37
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25821d40248402370800000000000000
+      internalID: 8295709962002311250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_24
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1278
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17368edba83a8920800000000000000
+      internalID: 2993267213165016861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_25
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1267
+        width: 39
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e6ebcf5a7a8f140800000000000000
+      internalID: 4753733738041339466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_26
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1277
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e816a56c9f941b0800000000000000
+      internalID: -5671727625381245423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_27
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 1267
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b79abe5c950409930800000000000000
+      internalID: 4147886011125049723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_28
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 903
+        width: 268
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22b8448e545d9540800000000000000
+      internalID: 5016258324883616301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_29
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1054
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4e5e19e15c505d0800000000000000
+      internalID: -3096852433659894568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_30
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1058
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63cc14bc347b250a0800000000000000
+      internalID: -6894246577750029258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_31
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 1019
+        width: 132
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92710f0235d81cd0800000000000000
+      internalID: -2587083574947515745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_32
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1057
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da14e6ccaa5fce170800000000000000
+      internalID: 8209206334712594861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_33
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 914
+        width: 257
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57230fc00efd59210800000000000000
+      internalID: 1339222617595327093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_34
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 1057
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39884ed327d493510800000000000000
+      internalID: 1529338701528991891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_35
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 988
+        width: 229
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23806704a8371cdb0800000000000000
+      internalID: -4773407092411856846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_36
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 927
+        width: 262
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3525b1d26a90190800000000000000
+      internalID: -7995676950757485606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_37
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 962
+        width: 49
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165dd2975c656b9e0800000000000000
+      internalID: -1606000810969410207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_38
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 970
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5244dc7436fbfac80800000000000000
+      internalID: -8309212354347973595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_39
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 917
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7973bf28f7907e80800000000000000
+      internalID: -8182873430724216450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_40
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 561
+        width: 224
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4539e3dc0d28c0900800000000000000
+      internalID: 652039879370117972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_41
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 708
+        width: 86
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0415080c8e9aadb40800000000000000
+      internalID: 5465867914894659904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_42
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 561
+        width: 280
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c58c25fe03cc592f0800000000000000
+      internalID: -966642034455426980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_43
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 557
+        width: 274
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c788e1b4c278e60800000000000000
+      internalID: 7964383167174442060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_44
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 674
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2641149f4e36888d0800000000000000
+      internalID: -2843913329598983070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_45
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 555
+        width: 161
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4504e4b95ec2fb1c0800000000000000
+      internalID: -4485817339172994988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_46
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 686
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9cb67d62afd0a8b0800000000000000
+      internalID: -5142864885742912357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_47
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 547
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6262455299a005be0800000000000000
+      internalID: -1490679823787088346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_48
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 592
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2511e6ff2439549c0800000000000000
+      internalID: -3943583982730473134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_49
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 598
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6ff447fe0f329e0800000000000000
+      internalID: -1647208127448221960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_50
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 342
+        width: 37
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3045086cd846c660800000000000000
+      internalID: 7405686748732538940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_51
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 333
+        width: 32
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8914d43be2d341de0800000000000000
+      internalID: -1363397516400442984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_52
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 214
+        width: 248
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532c2ff67645b3f50800000000000000
+      internalID: 6862171260465627701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_53
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 320
+        width: 100
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a75770b0e16cbf50800000000000000
+      internalID: 6898496346885937059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_54
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 324
+        width: 99
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6360fb3ef187452f0800000000000000
+      internalID: -985030340127029706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_55
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 189
+        width: 260
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 782ed227c17daa460800000000000000
+      internalID: 7253846667008270983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_56
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 239
+        width: 260
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70860db82b1f12090800000000000000
+      internalID: -8060896108864313337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_57
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 222
+        width: 37
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ba8354db014e310800000000000000
+      internalID: 1433288986506865422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_58
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 238
+        width: 42
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a10d5ca1fd9f5590800000000000000
+      internalID: -7683248777966321242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_59
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 147
+        width: 210
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a170c092414ca30800000000000000
+      internalID: 4234531716163115547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_60
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 218
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d59e4cbdc5f26770800000000000000
+      internalID: 8602708502207436249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_61
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 225
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ab6a2a491c850c0800000000000000
+      internalID: -4586703376348693965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_62
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 143
+        width: 121
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef67fb60ab3a7350800000000000000
+      internalID: 6015185812498903020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_63
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 161
+        width: 106
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2132d50248577f90800000000000000
+      internalID: -6955994058861694675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_0: 479112662079884614
+      gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_1: 4366853496792732779
+      gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_10: -9169678794381101126
+      gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_11: 1774217602475581545
+      gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_12: -1490368065380256073
+      gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_13: -8244442138715362661
+      gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_14: 5531717600681049649
+      gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_15: -9218022408183063381
+      gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_16: 2971044498470091148
+      gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_17: -1942348835691837390
+      gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_18: -7324786174755916644
+      gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_19: -197088670109776195
+      gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_2: 6562679951647719517
+      gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_20: 6814051084915849600
+      gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_21: 2647810889401328535
+      gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_22: -4534153301367089252
+      gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_23: 8295709962002311250
+      gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_24: 2993267213165016861
+      gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_25: 4753733738041339466
+      gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_26: -5671727625381245423
+      gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_27: 4147886011125049723
+      gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_28: 5016258324883616301
+      gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_29: -3096852433659894568
+      gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_3: -7772475803308166786
+      gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_30: -6894246577750029258
+      gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_31: -2587083574947515745
+      gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_32: 8209206334712594861
+      gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_33: 1339222617595327093
+      gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_34: 1529338701528991891
+      gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_35: -4773407092411856846
+      gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_36: -7995676950757485606
+      gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_37: -1606000810969410207
+      gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_38: -8309212354347973595
+      gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_39: -8182873430724216450
+      gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_4: 9195600389502400723
+      gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_40: 652039879370117972
+      gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_41: 5465867914894659904
+      gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_42: -966642034455426980
+      gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_43: 7964383167174442060
+      gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_44: -2843913329598983070
+      gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_45: -4485817339172994988
+      gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_46: -5142864885742912357
+      gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_47: -1490679823787088346
+      gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_48: -3943583982730473134
+      gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_49: -1647208127448221960
+      gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_5: 2739150279825835952
+      gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_50: 7405686748732538940
+      gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_51: -1363397516400442984
+      gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_52: 6862171260465627701
+      gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_53: 6898496346885937059
+      gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_54: -985030340127029706
+      gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_55: 7253846667008270983
+      gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_56: -8060896108864313337
+      gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_57: 1433288986506865422
+      gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_58: -7683248777966321242
+      gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_59: 4234531716163115547
+      gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_6: -106807157547182729
+      gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_60: 8602708502207436249
+      gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_61: -4586703376348693965
+      gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_62: 6015185812498903020
+      gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_63: -6955994058861694675
+      gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_7: -8763350292282733653
+      gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_8: 1069543332851030358
+      gunshot-animation-black-background-cartoon-illustration-set-orange-gun-flashes-with-fire-smoke-explosive-effect-bullet-trace-explosion-weapon-blast-burst-concept_9: -532406689795374536
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -24,6 +24,9 @@ public class PlayerShoot : MonoBehaviour
     [SerializeField] private int _maxBulletCount = 7;
     [SerializeField] private float _spreadAngle = 10f;
 
+    [Header("Visual Effects")]
+    [SerializeField] private MuzzleFlash _muzzleFlash;
+
     [Header("Gun SFX")]
     [SerializeField] private AudioClip shootClip;
     [SerializeField, Range(0f, 1f)] private float shootVolume = 0.7f;
@@ -70,37 +73,44 @@ public class PlayerShoot : MonoBehaviour
 
    
     private void FireBullet()
-{
-    // Phát tiếng súng một lần cho mỗi lần bắn
-    if (shootClip != null)
     {
-        audioSource.PlayOneShot(shootClip, shootVolume);
+        // Phát tiếng súng với pitch ngẫu nhiên (0.9 - 1.1) một lần cho mỗi lần bắn
+        if (shootClip != null && audioSource != null)
+        {
+            audioSource.pitch = Random.Range(0.9f, 1.1f);
+            audioSource.PlayOneShot(shootClip, shootVolume);
+        }
+
+        // Kích hoạt hiệu ứng tia lửa nòng súng
+        if (_muzzleFlash != null)
+        {
+            _muzzleFlash.Play();
+        }
+
+        for (int i = 0; i < _bulletCount; i++)
+        {
+            float angleOffset =
+                (i - (_bulletCount - 1) / 2f) * _spreadAngle;
+
+            Quaternion rotation =
+                transform.rotation *
+                Quaternion.Euler(0f, 0f, angleOffset);
+
+            GameObject bullet = Instantiate(
+                _bulletPrefab,
+                _gunOffset.position,
+                rotation
+            );
+
+            Rigidbody2D rigidbody = bullet.GetComponent<Rigidbody2D>();
+
+            rigidbody.linearVelocity =
+                _bulletSpeed * (rotation * Vector3.up);
+        }
+
+        // Báo tutorial khi nhân vật đã thực hiện bắn.
+        TutorialManager.Instance?.NotifyShot();
     }
-
-    for (int i = 0; i < _bulletCount; i++)
-    {
-        float angleOffset =
-            (i - (_bulletCount - 1) / 2f) * _spreadAngle;
-
-        Quaternion rotation =
-            transform.rotation *
-            Quaternion.Euler(0f, 0f, angleOffset);
-
-        GameObject bullet = Instantiate(
-            _bulletPrefab,
-            _gunOffset.position,
-            rotation
-        );
-
-        Rigidbody2D rigidbody = bullet.GetComponent<Rigidbody2D>();
-
-        rigidbody.linearVelocity =
-            _bulletSpeed * (rotation * Vector3.up);
-    }
-
-    // Báo tutorial khi nhân vật đã thực hiện bắn.
-    TutorialManager.Instance?.NotifyShot();
-}
 
 
     private void OnAttack(InputValue inputValue)
