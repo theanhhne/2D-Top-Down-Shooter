@@ -667,8 +667,8 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 257636917
+  m_SortingLayer: 4
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_Sprite: {fileID: 2739150279825835952, guid: b7787e71f0e1dff43bc2f304fe837f01, type: 3}
@@ -1086,6 +1086,7 @@ GameObject:
   - component: {fileID: 342114537}
   - component: {fileID: 342114542}
   - component: {fileID: 342114543}
+  - component: {fileID: 342114548}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -1106,7 +1107,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Player
   _speed: 1.75
-  _rotationSpeed: 720
+  _rotationSpeed: 1440
   _screenBorder: 30
 --- !u!50 &342114533
 Rigidbody2D:
@@ -1233,7 +1234,7 @@ MonoBehaviour:
   _bulletPrefab: {fileID: 1942271074435620616, guid: 576a0c060035b734ea096855a56887de, type: 3}
   _bulletSpeed: 5
   _gunOffset: {fileID: 803532488}
-  _timeBetweenShots: 0.7
+  _timeBetweenShots: 0.85
   _bulletCount: 1
   _maxBulletCount: 3
   _spreadAngle: 10
@@ -1523,6 +1524,20 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::PlayerDeathSFX
   deathClip: {fileID: 8300000, guid: 51df0019cea6f6346a10b90bfe19a21e, type: 3}
   volume: 0.2
+--- !u!114 &342114548
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 342114531}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a41d5b64dc4c3fb4fa46529d2e410954, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerDamageShake
+  duration: 0.1
+  magnitude: 0.15
 --- !u!1 &395983749
 GameObject:
   m_ObjectHideFlags: 0
@@ -4348,6 +4363,51 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ca1a4daa542400942bd07c03eb1d142a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemySpawner
+--- !u!1 &1497730302
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1497730304}
+  - component: {fileID: 1497730303}
+  m_Layer: 0
+  m_Name: GameFeelManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1497730303
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1497730302}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24627fd5a742ce34ab4b78eda08a66f7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::GameFeelManager
+  targetCamera: {fileID: 0}
+--- !u!4 &1497730304
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1497730302}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.19417, y: 0.57021, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1670896230 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 8721555155452592559, guid: e149a3c914264514e90f632c64e399a2, type: 3}
@@ -5237,3 +5297,4 @@ SceneRoots:
   - {fileID: 985643547}
   - {fileID: 1744741383}
   - {fileID: 834861333}
+  - {fileID: 1497730304}
