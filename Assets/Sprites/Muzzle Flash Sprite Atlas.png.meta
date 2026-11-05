@@ -1,0 +1,709 @@
+fileFormatVersion: 2
+guid: 3f873d9b2dd09944aa78e905256f463f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4838213151428590266
+    second: Muzzle Flash Sprite Atlas_0
+  - first:
+      213: -2369601482312885710
+    second: Muzzle Flash Sprite Atlas_1
+  - first:
+      213: 5944381133723446340
+    second: Muzzle Flash Sprite Atlas_2
+  - first:
+      213: 5586886435413687697
+    second: Muzzle Flash Sprite Atlas_3
+  - first:
+      213: 8168919496438169151
+    second: Muzzle Flash Sprite Atlas_4
+  - first:
+      213: -4202400203859449370
+    second: Muzzle Flash Sprite Atlas_5
+  - first:
+      213: 1274314968800314357
+    second: Muzzle Flash Sprite Atlas_6
+  - first:
+      213: 2435413929170526982
+    second: Muzzle Flash Sprite Atlas_7
+  - first:
+      213: 5930236443602544190
+    second: Muzzle Flash Sprite Atlas_8
+  - first:
+      213: 3414932060086121153
+    second: Muzzle Flash Sprite Atlas_9
+  - first:
+      213: -923900190436130951
+    second: Muzzle Flash Sprite Atlas_10
+  - first:
+      213: -864047955122336266
+    second: Muzzle Flash Sprite Atlas_11
+  - first:
+      213: -6893197685144770129
+    second: Muzzle Flash Sprite Atlas_12
+  - first:
+      213: -3386746166926344139
+    second: Muzzle Flash Sprite Atlas_13
+  - first:
+      213: 1670345274699415798
+    second: Muzzle Flash Sprite Atlas_14
+  - first:
+      213: -1632628123182808080
+    second: Muzzle Flash Sprite Atlas_15
+  - first:
+      213: 9115766335514338052
+    second: Muzzle Flash Sprite Atlas_16
+  - first:
+      213: 596802285705798387
+    second: Muzzle Flash Sprite Atlas_17
+  - first:
+      213: -8271890386164896396
+    second: Muzzle Flash Sprite Atlas_18
+  - first:
+      213: -5992220095992760908
+    second: Muzzle Flash Sprite Atlas_19
+  - first:
+      213: 1198575870320620335
+    second: Muzzle Flash Sprite Atlas_20
+  - first:
+      213: 596903372932478042
+    second: Muzzle Flash Sprite Atlas_21
+  - first:
+      213: 5100657282649211118
+    second: Muzzle Flash Sprite Atlas_22
+  - first:
+      213: -7056163731021658419
+    second: Muzzle Flash Sprite Atlas_23
+  - first:
+      213: 317642830328620538
+    second: Muzzle Flash Sprite Atlas_24
+  - first:
+      213: -6121101509686792730
+    second: Muzzle Flash Sprite Atlas_25
+  - first:
+      213: -6578134515727165861
+    second: Muzzle Flash Sprite Atlas_26
+  - first:
+      213: -7404129608649702654
+    second: Muzzle Flash Sprite Atlas_27
+  - first:
+      213: 7331082806525090394
+    second: Muzzle Flash Sprite Atlas_28
+  - first:
+      213: -2652529180408247389
+    second: Muzzle Flash Sprite Atlas_29
+  - first:
+      213: 4947853131787778321
+    second: Muzzle Flash Sprite Atlas_30
+  - first:
+      213: 9125532574522085415
+    second: Muzzle Flash Sprite Atlas_31
+  - first:
+      213: -5785487710250946380
+    second: Muzzle Flash Sprite Atlas_32
+  - first:
+      213: -936869847120694179
+    second: Muzzle Flash Sprite Atlas_33
+  - first:
+      213: 1971956182685586161
+    second: Muzzle Flash Sprite Atlas_34
+  - first:
+      213: -3619463576683244190
+    second: Muzzle Flash Sprite Atlas_35
+  - first:
+      213: 3426341026809203008
+    second: Muzzle Flash Sprite Atlas_36
+  - first:
+      213: -6682102320044790575
+    second: Muzzle Flash Sprite Atlas_37
+  - first:
+      213: -7669654952539204770
+    second: Muzzle Flash Sprite Atlas_38
+  - first:
+      213: 7205292921428909032
+    second: Muzzle Flash Sprite Atlas_39
+  - first:
+      213: 392003698631944171
+    second: Muzzle Flash Sprite Atlas_40
+  - first:
+      213: -7194009717306933106
+    second: Muzzle Flash Sprite Atlas_41
+  - first:
+      213: 8598879371812083619
+    second: Muzzle Flash Sprite Atlas_42
+  - first:
+      213: 8948912538762673738
+    second: Muzzle Flash Sprite Atlas_43
+  - first:
+      213: 1078306846263871435
+    second: Muzzle Flash Sprite Atlas_44
+  - first:
+      213: 3335997550168492814
+    second: Muzzle Flash Sprite Atlas_45
+  - first:
+      213: -7848594452537058045
+    second: Muzzle Flash Sprite Atlas_46
+  - first:
+      213: 5655733405202309171
+    second: Muzzle Flash Sprite Atlas_47
+  - first:
+      213: -2448662132511214811
+    second: Muzzle Flash Sprite Atlas_48
+  - first:
+      213: 42766133282123907
+    second: Muzzle Flash Sprite Atlas_49
+  - first:
+      213: -258837619176901539
+    second: Muzzle Flash Sprite Atlas_50
+  - first:
+      213: -7848129398872269305
+    second: Muzzle Flash Sprite Atlas_51
+  - first:
+      213: -5655053672996800425
+    second: Muzzle Flash Sprite Atlas_52
+  - first:
+      213: 3867995826837557892
+    second: Muzzle Flash Sprite Atlas_53
+  - first:
+      213: -1604991181677230297
+    second: Muzzle Flash Sprite Atlas_54
+  - first:
+      213: -1740566250943337259
+    second: Muzzle Flash Sprite Atlas_55
+  - first:
+      213: -4303353715377309010
+    second: Muzzle Flash Sprite Atlas_56
+  - first:
+      213: -680753177586582872
+    second: Muzzle Flash Sprite Atlas_57
+  - first:
+      213: -2331234877063449532
+    second: Muzzle Flash Sprite Atlas_58
+  - first:
+      213: -4734874097016117020
+    second: Muzzle Flash Sprite Atlas_59
+  - first:
+      213: 8387106251170694165
+    second: Muzzle Flash Sprite Atlas_60
+  - first:
+      213: 1421745843474263052
+    second: Muzzle Flash Sprite Atlas_61
+  - first:
+      213: 8055609466141889176
+    second: Muzzle Flash Sprite Atlas_62
+  - first:
+      213: 8045878619260227004
+    second: Muzzle Flash Sprite Atlas_63
+  - first:
+      213: -8309775827812349579
+    second: Muzzle Flash Sprite Atlas_64
+  - first:
+      213: 5318674145268862323
+    second: Muzzle Flash Sprite Atlas_65
+  - first:
+      213: 6741279020688372891
+    second: Muzzle Flash Sprite Atlas_66
+  - first:
+      213: 4305838987331187498
+    second: Muzzle Flash Sprite Atlas_67
+  - first:
+      213: 2632931864779457438
+    second: Muzzle Flash Sprite Atlas_68
+  - first:
+      213: -7986836235426477250
+    second: Muzzle Flash Sprite Atlas_69
+  - first:
+      213: 3547930770269155418
+    second: Muzzle Flash Sprite Atlas_70
+  - first:
+      213: 1260957093070245935
+    second: Muzzle Flash Sprite Atlas_71
+  - first:
+      213: -3820437512730214710
+    second: Muzzle Flash Sprite Atlas_72
+  - first:
+      213: 1013441091582941543
+    second: Muzzle Flash Sprite Atlas_73
+  - first:
+      213: -1531325750718831744
+    second: Muzzle Flash Sprite Atlas_74
+  - first:
+      213: 9034472538727610771
+    second: Muzzle Flash Sprite Atlas_75
+  - first:
+      213: 5014861188211092073
+    second: Muzzle Flash Sprite Atlas_76
+  - first:
+      213: -1032614179315821194
+    second: Muzzle Flash Sprite Atlas_77
+  - first:
+      213: 6454593558328068472
+    second: Muzzle Flash Sprite Atlas_78
+  - first:
+      213: 7719796900609107974
+    second: Muzzle Flash Sprite Atlas_79
+  - first:
+      213: 2503019796179710752
+    second: Muzzle Flash Sprite Atlas_80
+  - first:
+      213: -1314114602887648408
+    second: Muzzle Flash Sprite Atlas_81
+  - first:
+      213: 402308159999399225
+    second: Muzzle Flash Sprite Atlas_82
+  - first:
+      213: 8720491543062070327
+    second: Muzzle Flash Sprite Atlas_83
+  - first:
+      213: 3522652818378315728
+    second: Muzzle Flash Sprite Atlas_84
+  - first:
+      213: 4104675752599717324
+    second: Muzzle Flash Sprite Atlas_85
+  - first:
+      213: -7717577757535692029
+    second: Muzzle Flash Sprite Atlas_86
+  - first:
+      213: 2407669207110914944
+    second: Muzzle Flash Sprite Atlas_87
+  - first:
+      213: 3662091670985984925
+    second: Muzzle Flash Sprite Atlas_88
+  - first:
+      213: -1026047140346229704
+    second: Muzzle Flash Sprite Atlas_89
+  - first:
+      213: 5076057273346071827
+    second: Muzzle Flash Sprite Atlas_90
+  - first:
+      213: -4545308109099996688
+    second: Muzzle Flash Sprite Atlas_91
+  - first:
+      213: 4332673783168963086
+    second: Muzzle Flash Sprite Atlas_92
+  - first:
+      213: 4478010387972451365
+    second: Muzzle Flash Sprite Atlas_93
+  - first:
+      213: -7475756149160819063
+    second: Muzzle Flash Sprite Atlas_94
+  - first:
+      213: -2850105720175196161
+    second: Muzzle Flash Sprite Atlas_95
+  - first:
+      213: 5800526740198846493
+    second: Muzzle Flash Sprite Atlas_96
+  - first:
+      213: -5604666664098908999
+    second: Muzzle Flash Sprite Atlas_97
+  - first:
+      213: -6356846579559362661
+    second: Muzzle Flash Sprite Atlas_98
+  - first:
+      213: -1687674665550493308
+    second: Muzzle Flash Sprite Atlas_99
+  - first:
+      213: 2355874913156962292
+    second: Muzzle Flash Sprite Atlas_100
+  - first:
+      213: -3884939181078020059
+    second: Muzzle Flash Sprite Atlas_101
+  - first:
+      213: 9043420804087143033
+    second: Muzzle Flash Sprite Atlas_102
+  - first:
+      213: -2189538492954225845
+    second: Muzzle Flash Sprite Atlas_103
+  - first:
+      213: 1962893691169269373
+    second: Muzzle Flash Sprite Atlas_104
+  - first:
+      213: -8387798572763981063
+    second: Muzzle Flash Sprite Atlas_105
+  - first:
+      213: -670875792864471140
+    second: Muzzle Flash Sprite Atlas_106
+  - first:
+      213: 8471888098345757454
+    second: Muzzle Flash Sprite Atlas_107
+  - first:
+      213: 1613776670238749951
+    second: Muzzle Flash Sprite Atlas_108
+  - first:
+      213: 7718731423873969664
+    second: Muzzle Flash Sprite Atlas_109
+  - first:
+      213: -1198627163776664963
+    second: Muzzle Flash Sprite Atlas_110
+  - first:
+      213: -517326308103856992
+    second: Muzzle Flash Sprite Atlas_111
+  - first:
+      213: 7755157028515049780
+    second: Muzzle Flash Sprite Atlas_112
+  - first:
+      213: 6378090640384434919
+    second: Muzzle Flash Sprite Atlas_113
+  - first:
+      213: -7736890121109642586
+    second: Muzzle Flash Sprite Atlas_114
+  - first:
+      213: -3369553583473321943
+    second: Muzzle Flash Sprite Atlas_115
+  - first:
+      213: 7874063284845575252
+    second: Muzzle Flash Sprite Atlas_116
+  - first:
+      213: -2810816107364153440
+    second: Muzzle Flash Sprite Atlas_117
+  - first:
+      213: 7249657170975906691
+    second: Muzzle Flash Sprite Atlas_118
+  - first:
+      213: -1187632141261497925
+    second: Muzzle Flash Sprite Atlas_119
+  - first:
+      213: 5880659457391124862
+    second: Muzzle Flash Sprite Atlas_120
+  - first:
+      213: 7557445124736346504
+    second: Muzzle Flash Sprite Atlas_121
+  - first:
+      213: -6529261709569250551
+    second: Muzzle Flash Sprite Atlas_122
+  - first:
+      213: -8312025433754183912
+    second: Muzzle Flash Sprite Atlas_123
+  - first:
+      213: -2292383767581216021
+    second: Muzzle Flash Sprite Atlas_124
+  - first:
+      213: -2062193138213034025
+    second: Muzzle Flash Sprite Atlas_125
+  - first:
+      213: -4470982866844274562
+    second: Muzzle Flash Sprite Atlas_126
+  - first:
+      213: -5109770115615505466
+    second: Muzzle Flash Sprite Atlas_127
+  - first:
+      213: -8048898006764494843
+    second: Muzzle Flash Sprite Atlas_128
+  - first:
+      213: 3258990226208894369
+    second: Muzzle Flash Sprite Atlas_129
+  - first:
+      213: -5271561785246207376
+    second: Muzzle Flash Sprite Atlas_130
+  - first:
+      213: 3836243359015862608
+    second: Muzzle Flash Sprite Atlas_131
+  - first:
+      213: -184601467085527798
+    second: Muzzle Flash Sprite Atlas_132
+  - first:
+      213: 3065070634460740486
+    second: Muzzle Flash Sprite Atlas_133
+  - first:
+      213: -7256632258912705973
+    second: Muzzle Flash Sprite Atlas_134
+  - first:
+      213: 4460340133996139740
+    second: Muzzle Flash Sprite Atlas_135
+  - first:
+      213: -8479251921640195487
+    second: Muzzle Flash Sprite Atlas_136
+  - first:
+      213: 1392503167300341155
+    second: Muzzle Flash Sprite Atlas_137
+  - first:
+      213: -6383379378520334896
+    second: Muzzle Flash Sprite Atlas_138
+  - first:
+      213: -3463871191390764485
+    second: Muzzle Flash Sprite Atlas_139
+  - first:
+      213: -375215381488131613
+    second: Muzzle Flash Sprite Atlas_140
+  - first:
+      213: -5190242455690586878
+    second: Muzzle Flash Sprite Atlas_141
+  - first:
+      213: 2286635532484464447
+    second: Muzzle Flash Sprite Atlas_142
+  - first:
+      213: -5812174381209709608
+    second: Muzzle Flash Sprite Atlas_143
+  - first:
+      213: -6224939927983851804
+    second: Muzzle Flash Sprite Atlas_144
+  - first:
+      213: 2339111576828191575
+    second: Muzzle Flash Sprite Atlas_145
+  - first:
+      213: 7525797368415216629
+    second: Muzzle Flash Sprite Atlas_146
+  - first:
+      213: -6672513396357294976
+    second: Muzzle Flash Sprite Atlas_147
+  - first:
+      213: 4809132860806896294
+    second: Muzzle Flash Sprite Atlas_148
+  - first:
+      213: 448703550882925371
+    second: Muzzle Flash Sprite Atlas_149
+  - first:
+      213: 4907423186237078532
+    second: Muzzle Flash Sprite Atlas_150
+  - first:
+      213: -5936098039963622783
+    second: Muzzle Flash Sprite Atlas_151
+  - first:
+      213: 8460407200498697551
+    second: Muzzle Flash Sprite Atlas_152
+  - first:
+      213: -8751377657273744876
+    second: Muzzle Flash Sprite Atlas_153
+  - first:
+      213: -1370992971374107166
+    second: Muzzle Flash Sprite Atlas_154
+  - first:
+      213: 2254026036739071985
+    second: Muzzle Flash Sprite Atlas_155
+  - first:
+      213: 610459797675930236
+    second: Muzzle Flash Sprite Atlas_156
+  - first:
+      213: -9222051419744667626
+    second: Muzzle Flash Sprite Atlas_157
+  - first:
+      213: -8963103897825325097
+    second: Muzzle Flash Sprite Atlas_158
+  - first:
+      213: 7119945401722167207
+    second: Muzzle Flash Sprite Atlas_159
+  - first:
+      213: -5180846879160850734
+    second: Muzzle Flash Sprite Atlas_160
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Muzzle Flash Sprite Atlas_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 22
+        width: 340
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba368e2a39c42340800000000000000
+      internalID: 4838213151428590266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muzzle Flash Sprite Atlas_1
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 33
+        width: 303
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75cd010205a972e4c8b76ce5bd1fe4f0
+      internalID: -2369601482312885710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muzzle Flash Sprite Atlas_2
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 2
+        width: 255
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c19f65ea5add694b9ab580ef19c423b
+      internalID: 5944381133723446340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muzzle Flash Sprite Atlas_3
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 26
+        width: 293
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7918bf77b135c8419d495a5598a669e
+      internalID: 5586886435413687697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1ab5366004544c941a8573f765e0b251
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":1536.0,"y":1024.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+      - key: SpriteEditor.SliceOnImport
+        value: False
+    nameFileIdTable:
+      Muzzle Flash Sprite Atlas_0: 4838213151428590266
+      Muzzle Flash Sprite Atlas_1: -2369601482312885710
+      Muzzle Flash Sprite Atlas_2: 5944381133723446340
+      Muzzle Flash Sprite Atlas_3: 5586886435413687697
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

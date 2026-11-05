@@ -1000,7 +1000,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 77b101827923cff4ab42866be7bff27e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Player
-  _speed: 2
+  _speed: 1.75
   _rotationSpeed: 720
   _screenBorder: 30
 --- !u!50 &342114533
@@ -1126,11 +1126,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerShoot
   _bulletPrefab: {fileID: 1942271074435620616, guid: 576a0c060035b734ea096855a56887de, type: 3}
-  _bulletSpeed: 8
+  _bulletSpeed: 5
   _gunOffset: {fileID: 803532488}
-  _timeBetweenShots: 0.2
+  _timeBetweenShots: 0.7
   _bulletCount: 1
-  _maxBulletCount: 5
+  _maxBulletCount: 3
   _spreadAngle: 10
   shootClip: {fileID: 8300000, guid: b4e835509d105da45a424fc8e66a1d21, type: 3}
   shootVolume: 0.05
@@ -1146,8 +1146,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a0603c36a70d574d8536dc51532eeed, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::HealthController
-  _currentHealth: 150
-  _maximumHealth: 150
+  _currentHealth: 100
+  _maximumHealth: 100
   OnDied:
     m_PersistentCalls:
       m_Calls:
@@ -1402,7 +1402,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerDamagedSFX
   damageClip: {fileID: 8300000, guid: 76bb4288c59d91149ac6c207cb291c31, type: 3}
-  volume: 0.2
+  volume: 0.3
 --- !u!114 &342114547
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1416,7 +1416,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerDeathSFX
   deathClip: {fileID: 8300000, guid: 51df0019cea6f6346a10b90bfe19a21e, type: 3}
-  volume: 0.1
+  volume: 0.2
 --- !u!1 &395983749
 GameObject:
   m_ObjectHideFlags: 0
@@ -2330,7 +2330,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: BOSS IS COMING!!!
+  m_text: "BOSS \u0110ANG T\u1EDAI!!!"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -2841,7 +2841,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: -1590488635
   m_SortingLayer: 1
-  m_SortingOrder: 0
+  m_SortingOrder: -10
   m_MaskInteraction: 0
   m_Sprite: {fileID: -4533554359200444325, guid: d389fbca89a06844cb0b81425ef3b127, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -2915,7 +2915,7 @@ MonoBehaviour:
   bossHealthPerMilestone: 500
   bossDamagePerMilestone: 10
   timeBetweenWaves: 3
-  startingWave: 5
+  startingWave: 1
   waveUI: {fileID: 897337803}
 --- !u!4 &834861333
 Transform:
@@ -3831,7 +3831,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 257636917
   m_SortingLayer: 4
-  m_SortingOrder: 0
+  m_SortingOrder: 5
   m_MaskInteraction: 0
   m_Sprite: {fileID: 6573224340100364885, guid: e88ca119ab5aed641ba3429bef54342d, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}

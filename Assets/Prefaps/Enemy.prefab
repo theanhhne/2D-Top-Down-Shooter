@@ -189,7 +189,6 @@ GameObject:
   - component: {fileID: 3091294560699747078}
   - component: {fileID: 3363790256083415294}
   - component: {fileID: 2982446505040597489}
-  - component: {fileID: 5139722402953257082}
   m_Layer: 0
   m_Name: Enemy
   m_TagString: Untagged
@@ -226,7 +225,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e4e973d52d912b14885f487bde7403eb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemyAttack
-  _damageAmount: 10
+  _damageAmount: 15
 --- !u!50 &4482609810104551098
 Rigidbody2D:
   serializedVersion: 5
@@ -281,7 +280,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dd7215708992cfb478dd1ba21196ef73, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerAwareness
-  _playerAwarenessDistance: 5
+  _playerAwarenessDistance: 8
 --- !u!58 &1044927124207476426
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -530,9 +529,9 @@ MonoBehaviour:
   player: {fileID: 0}
   maxHearingDistance: 15
   minVolume: 0
-  maxVolume: 0
+  maxVolume: 0.2
   soundInterval: 8
-  damageVolume: 0.8
+  damageVolume: 0.4
 --- !u!114 &2982446505040597489
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -545,19 +544,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27fb385929cecfa42b52bc9026b80ef3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemyWaveSpawner
---- !u!114 &5139722402953257082
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2481106756387699943}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d1426c65b0ef39b4d90301c5259ba3c4, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::EnemyHealthBar
-  foreground: {fileID: 8038747505615812219}
 --- !u!1 &4009073966811962267
 GameObject:
   m_ObjectHideFlags: 0
@@ -570,6 +556,7 @@ GameObject:
   - component: {fileID: 7656677976185121245}
   - component: {fileID: 8121132120105963140}
   - component: {fileID: 6749325742013020841}
+  - component: {fileID: 7477132933039270223}
   m_Layer: 0
   m_Name: EnemyHealthBar
   m_TagString: Untagged
@@ -661,6 +648,24 @@ MonoBehaviour:
   m_BlockingMask:
     serializedVersion: 2
     m_Bits: 4294967295
+--- !u!114 &7477132933039270223
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4009073966811962267}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1426c65b0ef39b4d90301c5259ba3c4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyHealthBar
+  foreground: {fileID: 8038747505615812219}
+  healthCanvas: {fileID: 7656677976185121245}
+  worldOffset: {x: 0, y: 0.64, z: 0}
+  hideWhenFull: 1
+  sortingLayerName: Enemy
+  sortingOrder: 10
 --- !u!1 &8318468800357051109
 GameObject:
   m_ObjectHideFlags: 0
