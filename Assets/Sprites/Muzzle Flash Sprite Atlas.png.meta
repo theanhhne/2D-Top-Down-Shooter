@@ -601,7 +601,7 @@ TextureImporter:
         width: 340
         height: 173
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -623,7 +623,7 @@ TextureImporter:
         width: 303
         height: 161
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -645,7 +645,7 @@ TextureImporter:
         width: 255
         height: 192
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -667,7 +667,7 @@ TextureImporter:
         width: 293
         height: 160
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -676,6 +676,116 @@ TextureImporter:
       bones: []
       spriteID: b7918bf77b135c8419d495a5598a669e
       internalID: 5586886435413687697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muzzle Flash Sprite Atlas_4
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 210
+        width: 321
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d4a94ca550ae44f99ff0ceb749ff51
+      internalID: -882570832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muzzle Flash Sprite Atlas_5
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 191
+        width: 261
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede059946fd4beb49ba17f320e900a1b
+      internalID: -68684843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muzzle Flash Sprite Atlas_6
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 429
+        width: 275
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d4726940fdf8940a8ac11427fd0f2a
+      internalID: 535185411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muzzle Flash Sprite Atlas_7
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 680
+        width: 287
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba44159c046604449d8ec251ef5bdfd
+      internalID: -2142734753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muzzle Flash Sprite Atlas_8
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 663
+        width: 299
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c694a9f1851f143829bc335659a0ef
+      internalID: 1542457004
       vertices: []
       indices: 
       edges: []
@@ -702,6 +812,11 @@ TextureImporter:
       Muzzle Flash Sprite Atlas_1: -2369601482312885710
       Muzzle Flash Sprite Atlas_2: 5944381133723446340
       Muzzle Flash Sprite Atlas_3: 5586886435413687697
+      Muzzle Flash Sprite Atlas_4: -882570832
+      Muzzle Flash Sprite Atlas_5: -68684843
+      Muzzle Flash Sprite Atlas_6: 535185411
+      Muzzle Flash Sprite Atlas_7: -2142734753
+      Muzzle Flash Sprite Atlas_8: 1542457004
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

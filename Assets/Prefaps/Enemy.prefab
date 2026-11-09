@@ -269,6 +269,9 @@ MonoBehaviour:
   _speed: 1
   _rotationSpeed: 100
   _screenBorder: -30
+  _knockbackDuration: 0.2
+  _knockbackResistance: 0
+  _maxKnockbackSpeed: 8
 --- !u!114 &3745529238067366252
 MonoBehaviour:
   m_ObjectHideFlags: 0

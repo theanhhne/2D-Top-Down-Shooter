@@ -13,11 +13,21 @@ public class EnemyMovement : MonoBehaviour
     [SerializeField]
     private float _screenBorder;
 
+    [SerializeField]
+    private float _knockbackDuration = 0.12f;
+
+    [SerializeField, Range(0f, 1f)]
+    private float _knockbackResistance = 0f;
+
+    [SerializeField]
+    private float _maxKnockbackSpeed = 6f;
+
     private Rigidbody2D _rigidbody;
     private PlayerAwareness _playerAwarenessController;
     private Vector2 _targetDirection;
     private float _changeDirectionCooldown;
     private Camera _camera;
+    private Vector2 _knockbackVelocity;
 
     private void Awake()
     {
@@ -31,6 +41,7 @@ public class EnemyMovement : MonoBehaviour
     {
         UpdateTargetDirection();
         RotateTowardsTarget();
+        _knockbackVelocity = Vector2.MoveTowards(_knockbackVelocity, Vector2.zero, (_maxKnockbackSpeed / _knockbackDuration) * Time.fixedDeltaTime);
         SetVelocity();
     }
 
@@ -88,8 +99,19 @@ public class EnemyMovement : MonoBehaviour
         _rigidbody.SetRotation(rotation);
     }
 
+    public void ApplyKnockback(Vector2 direction, float strength)
+    {
+        if (direction.sqrMagnitude < 0.0001f)
+        {
+            return;
+        }
+
+        Vector2 knockback = direction.normalized * strength * (1f - _knockbackResistance);
+        _knockbackVelocity = Vector2.ClampMagnitude(_knockbackVelocity + knockback, _maxKnockbackSpeed);
+    }
+
     private void SetVelocity()
     {
-        _rigidbody.linearVelocity = transform.up * _speed;
+        _rigidbody.linearVelocity = (Vector2)transform.up * _speed + _knockbackVelocity;
     }
 }

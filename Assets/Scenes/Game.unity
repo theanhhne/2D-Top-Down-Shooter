@@ -622,6 +622,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MuzzleFlash
   flashDuration: 0.06
+  _sprites:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  _scaleRange: {x: 0.8, y: 1.2}
+  _rotationJitter: 10
 --- !u!212 &145567669
 SpriteRenderer:
   serializedVersion: 2

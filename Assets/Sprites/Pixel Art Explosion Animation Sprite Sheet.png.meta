@@ -1,0 +1,3900 @@
+fileFormatVersion: 2
+guid: 86a9f4235567b9245a71a2797ae0b0d5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9041783589702601910
+    second: Pixel Art Explosion Animation Sprite Sheet_0
+  - first:
+      213: 6619885393472922016
+    second: Pixel Art Explosion Animation Sprite Sheet_1
+  - first:
+      213: -7204945186768138124
+    second: Pixel Art Explosion Animation Sprite Sheet_2
+  - first:
+      213: -6235781869938632394
+    second: Pixel Art Explosion Animation Sprite Sheet_3
+  - first:
+      213: -2557611200427204120
+    second: Pixel Art Explosion Animation Sprite Sheet_4
+  - first:
+      213: 2682571909007989113
+    second: Pixel Art Explosion Animation Sprite Sheet_5
+  - first:
+      213: 7897555787795121287
+    second: Pixel Art Explosion Animation Sprite Sheet_6
+  - first:
+      213: 5327918407384963414
+    second: Pixel Art Explosion Animation Sprite Sheet_7
+  - first:
+      213: -8048280789697794284
+    second: Pixel Art Explosion Animation Sprite Sheet_8
+  - first:
+      213: -3393088880363699046
+    second: Pixel Art Explosion Animation Sprite Sheet_9
+  - first:
+      213: -2768746832079405571
+    second: Pixel Art Explosion Animation Sprite Sheet_10
+  - first:
+      213: 4978234690492417495
+    second: Pixel Art Explosion Animation Sprite Sheet_11
+  - first:
+      213: 5835505566429875001
+    second: Pixel Art Explosion Animation Sprite Sheet_12
+  - first:
+      213: -1834233797480062545
+    second: Pixel Art Explosion Animation Sprite Sheet_13
+  - first:
+      213: 4050530180433057720
+    second: Pixel Art Explosion Animation Sprite Sheet_14
+  - first:
+      213: 6981124150333476454
+    second: Pixel Art Explosion Animation Sprite Sheet_15
+  - first:
+      213: 4627210890483990825
+    second: Pixel Art Explosion Animation Sprite Sheet_16
+  - first:
+      213: 4084029688348401073
+    second: Pixel Art Explosion Animation Sprite Sheet_17
+  - first:
+      213: -7642310932388364925
+    second: Pixel Art Explosion Animation Sprite Sheet_18
+  - first:
+      213: 776335023986398792
+    second: Pixel Art Explosion Animation Sprite Sheet_19
+  - first:
+      213: -7560290511590563846
+    second: Pixel Art Explosion Animation Sprite Sheet_20
+  - first:
+      213: 1046340485507761133
+    second: Pixel Art Explosion Animation Sprite Sheet_21
+  - first:
+      213: 6039969948278828354
+    second: Pixel Art Explosion Animation Sprite Sheet_22
+  - first:
+      213: 6187982744505280393
+    second: Pixel Art Explosion Animation Sprite Sheet_23
+  - first:
+      213: -6165523991496185122
+    second: Pixel Art Explosion Animation Sprite Sheet_24
+  - first:
+      213: 8591207930509230969
+    second: Pixel Art Explosion Animation Sprite Sheet_25
+  - first:
+      213: 2083916757773376703
+    second: Pixel Art Explosion Animation Sprite Sheet_26
+  - first:
+      213: -7426323724505659498
+    second: Pixel Art Explosion Animation Sprite Sheet_27
+  - first:
+      213: -8228919183733407684
+    second: Pixel Art Explosion Animation Sprite Sheet_28
+  - first:
+      213: -2298567301360187352
+    second: Pixel Art Explosion Animation Sprite Sheet_29
+  - first:
+      213: -3707857100831592441
+    second: Pixel Art Explosion Animation Sprite Sheet_30
+  - first:
+      213: 6600386756764250817
+    second: Pixel Art Explosion Animation Sprite Sheet_31
+  - first:
+      213: -1623904028770419414
+    second: Pixel Art Explosion Animation Sprite Sheet_32
+  - first:
+      213: 5356383226868294975
+    second: Pixel Art Explosion Animation Sprite Sheet_33
+  - first:
+      213: -7452195970057405746
+    second: Pixel Art Explosion Animation Sprite Sheet_34
+  - first:
+      213: 7840912392077421372
+    second: Pixel Art Explosion Animation Sprite Sheet_35
+  - first:
+      213: 7215154517039872890
+    second: Pixel Art Explosion Animation Sprite Sheet_36
+  - first:
+      213: 8893491902665674919
+    second: Pixel Art Explosion Animation Sprite Sheet_37
+  - first:
+      213: -725969474458054627
+    second: Pixel Art Explosion Animation Sprite Sheet_38
+  - first:
+      213: 3368805473717741852
+    second: Pixel Art Explosion Animation Sprite Sheet_39
+  - first:
+      213: -6633262478332235587
+    second: Pixel Art Explosion Animation Sprite Sheet_40
+  - first:
+      213: -1990473574702379718
+    second: Pixel Art Explosion Animation Sprite Sheet_41
+  - first:
+      213: 9053210142043954653
+    second: Pixel Art Explosion Animation Sprite Sheet_42
+  - first:
+      213: 1296508349492080721
+    second: Pixel Art Explosion Animation Sprite Sheet_43
+  - first:
+      213: 4459732896119630288
+    second: Pixel Art Explosion Animation Sprite Sheet_44
+  - first:
+      213: -5828913747733876745
+    second: Pixel Art Explosion Animation Sprite Sheet_45
+  - first:
+      213: 56464683729202144
+    second: Pixel Art Explosion Animation Sprite Sheet_46
+  - first:
+      213: -3053646186289112603
+    second: Pixel Art Explosion Animation Sprite Sheet_47
+  - first:
+      213: 4557940995923445017
+    second: Pixel Art Explosion Animation Sprite Sheet_48
+  - first:
+      213: -8971887476260630766
+    second: Pixel Art Explosion Animation Sprite Sheet_49
+  - first:
+      213: -1178557031500301362
+    second: Pixel Art Explosion Animation Sprite Sheet_50
+  - first:
+      213: -2271854974471847770
+    second: Pixel Art Explosion Animation Sprite Sheet_51
+  - first:
+      213: -5449587861993447503
+    second: Pixel Art Explosion Animation Sprite Sheet_52
+  - first:
+      213: 6931838451346730115
+    second: Pixel Art Explosion Animation Sprite Sheet_53
+  - first:
+      213: 2585725330615785021
+    second: Pixel Art Explosion Animation Sprite Sheet_54
+  - first:
+      213: 3547515616988128454
+    second: Pixel Art Explosion Animation Sprite Sheet_55
+  - first:
+      213: 9030010162497655603
+    second: Pixel Art Explosion Animation Sprite Sheet_56
+  - first:
+      213: 7496880605143577560
+    second: Pixel Art Explosion Animation Sprite Sheet_57
+  - first:
+      213: 2825570887584577674
+    second: Pixel Art Explosion Animation Sprite Sheet_58
+  - first:
+      213: 965009265113199527
+    second: Pixel Art Explosion Animation Sprite Sheet_59
+  - first:
+      213: -2844955257723806978
+    second: Pixel Art Explosion Animation Sprite Sheet_60
+  - first:
+      213: -7134532492244592181
+    second: Pixel Art Explosion Animation Sprite Sheet_61
+  - first:
+      213: 875007330286152712
+    second: Pixel Art Explosion Animation Sprite Sheet_62
+  - first:
+      213: -292171066436057222
+    second: Pixel Art Explosion Animation Sprite Sheet_63
+  - first:
+      213: -8813992981317840196
+    second: Pixel Art Explosion Animation Sprite Sheet_64
+  - first:
+      213: 7676164767974423403
+    second: Pixel Art Explosion Animation Sprite Sheet_65
+  - first:
+      213: -4401034459359918588
+    second: Pixel Art Explosion Animation Sprite Sheet_66
+  - first:
+      213: -9073696740761976558
+    second: Pixel Art Explosion Animation Sprite Sheet_67
+  - first:
+      213: -7300869121000688617
+    second: Pixel Art Explosion Animation Sprite Sheet_68
+  - first:
+      213: -8307684971419362830
+    second: Pixel Art Explosion Animation Sprite Sheet_69
+  - first:
+      213: -6928424665151392990
+    second: Pixel Art Explosion Animation Sprite Sheet_70
+  - first:
+      213: 7726227080130819516
+    second: Pixel Art Explosion Animation Sprite Sheet_71
+  - first:
+      213: 5233946893517124038
+    second: Pixel Art Explosion Animation Sprite Sheet_72
+  - first:
+      213: 4847385790518753946
+    second: Pixel Art Explosion Animation Sprite Sheet_73
+  - first:
+      213: -47299357987911641
+    second: Pixel Art Explosion Animation Sprite Sheet_74
+  - first:
+      213: -7905233646976180110
+    second: Pixel Art Explosion Animation Sprite Sheet_75
+  - first:
+      213: -2492382050574356345
+    second: Pixel Art Explosion Animation Sprite Sheet_76
+  - first:
+      213: 9212794416575739973
+    second: Pixel Art Explosion Animation Sprite Sheet_77
+  - first:
+      213: -4665010965107783721
+    second: Pixel Art Explosion Animation Sprite Sheet_78
+  - first:
+      213: 2864382485005488932
+    second: Pixel Art Explosion Animation Sprite Sheet_79
+  - first:
+      213: 5251192843674548659
+    second: Pixel Art Explosion Animation Sprite Sheet_80
+  - first:
+      213: 3940613598927954455
+    second: Pixel Art Explosion Animation Sprite Sheet_81
+  - first:
+      213: 7332261062192552838
+    second: Pixel Art Explosion Animation Sprite Sheet_82
+  - first:
+      213: 7126836814927870981
+    second: Pixel Art Explosion Animation Sprite Sheet_83
+  - first:
+      213: -6845622743640953434
+    second: Pixel Art Explosion Animation Sprite Sheet_84
+  - first:
+      213: 1319737878428976167
+    second: Pixel Art Explosion Animation Sprite Sheet_85
+  - first:
+      213: -6462133790642008358
+    second: Pixel Art Explosion Animation Sprite Sheet_86
+  - first:
+      213: 4808738200951907434
+    second: Pixel Art Explosion Animation Sprite Sheet_87
+  - first:
+      213: 1298745279711204832
+    second: Pixel Art Explosion Animation Sprite Sheet_88
+  - first:
+      213: -7232910831759030318
+    second: Pixel Art Explosion Animation Sprite Sheet_89
+  - first:
+      213: 624414611341058979
+    second: Pixel Art Explosion Animation Sprite Sheet_90
+  - first:
+      213: 3907652602888195317
+    second: Pixel Art Explosion Animation Sprite Sheet_91
+  - first:
+      213: -8376559836249551027
+    second: Pixel Art Explosion Animation Sprite Sheet_92
+  - first:
+      213: -4077111220350671160
+    second: Pixel Art Explosion Animation Sprite Sheet_93
+  - first:
+      213: -591214756938240302
+    second: Pixel Art Explosion Animation Sprite Sheet_94
+  - first:
+      213: -2162263104229908758
+    second: Pixel Art Explosion Animation Sprite Sheet_95
+  - first:
+      213: -7018799087726273581
+    second: Pixel Art Explosion Animation Sprite Sheet_96
+  - first:
+      213: -310744661896125960
+    second: Pixel Art Explosion Animation Sprite Sheet_97
+  - first:
+      213: -2265113113741175602
+    second: Pixel Art Explosion Animation Sprite Sheet_98
+  - first:
+      213: -4962668061246252628
+    second: Pixel Art Explosion Animation Sprite Sheet_99
+  - first:
+      213: 6843910013418971000
+    second: Pixel Art Explosion Animation Sprite Sheet_100
+  - first:
+      213: -3022523379591002574
+    second: Pixel Art Explosion Animation Sprite Sheet_101
+  - first:
+      213: 491079111730495996
+    second: Pixel Art Explosion Animation Sprite Sheet_102
+  - first:
+      213: -2464703356984051619
+    second: Pixel Art Explosion Animation Sprite Sheet_103
+  - first:
+      213: -6277967806541250092
+    second: Pixel Art Explosion Animation Sprite Sheet_104
+  - first:
+      213: 7536249413247212691
+    second: Pixel Art Explosion Animation Sprite Sheet_105
+  - first:
+      213: 7268927810377650641
+    second: Pixel Art Explosion Animation Sprite Sheet_106
+  - first:
+      213: 4823900067099985381
+    second: Pixel Art Explosion Animation Sprite Sheet_107
+  - first:
+      213: -5244815483295815646
+    second: Pixel Art Explosion Animation Sprite Sheet_108
+  - first:
+      213: -1921138533992651625
+    second: Pixel Art Explosion Animation Sprite Sheet_109
+  - first:
+      213: -6092651920219030612
+    second: Pixel Art Explosion Animation Sprite Sheet_110
+  - first:
+      213: 4168831325142339934
+    second: Pixel Art Explosion Animation Sprite Sheet_111
+  - first:
+      213: -3147076593935455782
+    second: Pixel Art Explosion Animation Sprite Sheet_112
+  - first:
+      213: -5056102660577729667
+    second: Pixel Art Explosion Animation Sprite Sheet_113
+  - first:
+      213: 8077556184519622505
+    second: Pixel Art Explosion Animation Sprite Sheet_114
+  - first:
+      213: 929597472300475392
+    second: Pixel Art Explosion Animation Sprite Sheet_115
+  - first:
+      213: -1766590446828263243
+    second: Pixel Art Explosion Animation Sprite Sheet_116
+  - first:
+      213: 4457456191486761584
+    second: Pixel Art Explosion Animation Sprite Sheet_117
+  - first:
+      213: -6316170725123389111
+    second: Pixel Art Explosion Animation Sprite Sheet_118
+  - first:
+      213: 267256827465853279
+    second: Pixel Art Explosion Animation Sprite Sheet_119
+  - first:
+      213: -7990543234407562228
+    second: Pixel Art Explosion Animation Sprite Sheet_120
+  - first:
+      213: 2836762711607223020
+    second: Pixel Art Explosion Animation Sprite Sheet_121
+  - first:
+      213: 3682726508043477674
+    second: Pixel Art Explosion Animation Sprite Sheet_122
+  - first:
+      213: -4983276126975004852
+    second: Pixel Art Explosion Animation Sprite Sheet_123
+  - first:
+      213: -6749528483947490093
+    second: Pixel Art Explosion Animation Sprite Sheet_124
+  - first:
+      213: 2935022543822247729
+    second: Pixel Art Explosion Animation Sprite Sheet_125
+  - first:
+      213: -5514237490878287466
+    second: Pixel Art Explosion Animation Sprite Sheet_126
+  - first:
+      213: -5196407896978193632
+    second: Pixel Art Explosion Animation Sprite Sheet_127
+  - first:
+      213: -3469880883391537220
+    second: Pixel Art Explosion Animation Sprite Sheet_128
+  - first:
+      213: -6567038358179501117
+    second: Pixel Art Explosion Animation Sprite Sheet_129
+  - first:
+      213: 9200977117105135395
+    second: Pixel Art Explosion Animation Sprite Sheet_130
+  - first:
+      213: -7229940250348448246
+    second: Pixel Art Explosion Animation Sprite Sheet_131
+  - first:
+      213: -4277435107394688818
+    second: Pixel Art Explosion Animation Sprite Sheet_132
+  - first:
+      213: 2817787920659555964
+    second: Pixel Art Explosion Animation Sprite Sheet_133
+  - first:
+      213: 1482199302630745690
+    second: Pixel Art Explosion Animation Sprite Sheet_134
+  - first:
+      213: 8201243277139669564
+    second: Pixel Art Explosion Animation Sprite Sheet_135
+  - first:
+      213: -2187707124426781436
+    second: Pixel Art Explosion Animation Sprite Sheet_136
+  - first:
+      213: 2039555041752304704
+    second: Pixel Art Explosion Animation Sprite Sheet_137
+  - first:
+      213: -4826035740888102788
+    second: Pixel Art Explosion Animation Sprite Sheet_138
+  - first:
+      213: -3280501793742755609
+    second: Pixel Art Explosion Animation Sprite Sheet_139
+  - first:
+      213: -7099680099465729733
+    second: Pixel Art Explosion Animation Sprite Sheet_140
+  - first:
+      213: -2647477010903560426
+    second: Pixel Art Explosion Animation Sprite Sheet_141
+  - first:
+      213: -1216012173975237530
+    second: Pixel Art Explosion Animation Sprite Sheet_142
+  - first:
+      213: 2483382863360661325
+    second: Pixel Art Explosion Animation Sprite Sheet_143
+  - first:
+      213: -3450780977070373384
+    second: Pixel Art Explosion Animation Sprite Sheet_144
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 927
+        width: 115
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a43f1d70bb1258280800000000000000
+      internalID: -9041783589702601910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 985
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a120c311be8edb50800000000000000
+      internalID: 6619885393472922016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 967
+        width: 69
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 470568ca684e20c90800000000000000
+      internalID: -7204945186768138124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 967
+        width: 109
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6399c798d6d0679a0800000000000000
+      internalID: -6235781869938632394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 959
+        width: 71
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e1e9fcf92a818cd0800000000000000
+      internalID: -2557611200427204120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 967
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979dcd830f86a3520800000000000000
+      internalID: 2682571909007989113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 657
+        width: 393
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784cb5d5521c99d60800000000000000
+      internalID: 7897555787795121287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 661
+        width: 365
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6591270209190f940800000000000000
+      internalID: 5327918407384963414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 997
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f667d6343ce4090800000000000000
+      internalID: -8048280789697794284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 671
+        width: 293
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94089204a359e0d0800000000000000
+      internalID: -3393088880363699046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 975
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd3be8fc6f6399d0800000000000000
+      internalID: -2768746832079405571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 925
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5c35f331e361540800000000000000
+      internalID: 4978234690492417495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 939
+        width: 67
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b0ed31561ebf050800000000000000
+      internalID: 5835505566429875001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 981
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa16f22541e7b86e0800000000000000
+      internalID: -1834233797480062545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 963
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b716bc0dbf563830800000000000000
+      internalID: 4050530180433057720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 981
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e07895d6fe1e060800000000000000
+      internalID: 6981124150333476454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 859
+        width: 89
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9210e14f9c7273040800000000000000
+      internalID: 4627210890483990825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 949
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bdd72a0d536da830800000000000000
+      internalID: 4084029688348401073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 957
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d38eb92be01f590800000000000000
+      internalID: -7642310932388364925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 669
+        width: 359
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8465763579816ca00800000000000000
+      internalID: 776335023986398792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 957
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff53e9f5d3741790800000000000000
+      internalID: -7560290511590563846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 949
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3ccc8b029558e00800000000000000
+      internalID: 1046340485507761133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 933
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24da135baa842d350800000000000000
+      internalID: 6039969948278828354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 935
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987eb72558120e550800000000000000
+      internalID: 6187982744505280393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 909
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edaa8b89898af6aa0800000000000000
+      internalID: -6165523991496185122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 727
+        width: 117
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9738589381a1a3770800000000000000
+      internalID: 8591207930509230969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 917
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbcd098004f8bec10800000000000000
+      internalID: 2083916757773376703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 937
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 697c8cd3be560f890800000000000000
+      internalID: -7426323724505659498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 925
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c304c20e9910dcd80800000000000000
+      internalID: -8228919183733407684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 937
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 828091eb739d910e0800000000000000
+      internalID: -2298567301360187352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 903
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 700f503ac9b0b8cc0800000000000000
+      internalID: -3707857100831592441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 937
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c23021f8c8499b50800000000000000
+      internalID: 6600386756764250817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 936
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d30dfb3ebb679e0800000000000000
+      internalID: -1623904028770419414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 889
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35685e5a22b55a40800000000000000
+      internalID: 5356383226868294975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 895
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca7128af3b749890800000000000000
+      internalID: -7452195970057405746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 891
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3babb4174480dc60800000000000000
+      internalID: 7840912392077421372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 903
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b77b34ec0612460800000000000000
+      internalID: 7215154517039872890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 819
+        width: 41
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a0533704c70c6b70800000000000000
+      internalID: 8893491902665674919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 853
+        width: 19
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10962dfb96dce5f0800000000000000
+      internalID: -725969474458054627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 837
+        width: 23
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19665acab660ce20800000000000000
+      internalID: 3368805473717741852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 885
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db07415abeae1f3a0800000000000000
+      internalID: -6633262478332235587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 863
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d001d64da6064e0800000000000000
+      internalID: -1990473574702379718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 871
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd5e7188a673ad70800000000000000
+      internalID: 9053210142043954653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 867
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150bdc3897f1ef110800000000000000
+      internalID: 1296508349492080721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 805
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9a55ab07724ed30800000000000000
+      internalID: 4459732896119630288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 827
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff6eef44d98b1fa0800000000000000
+      internalID: -5828913747733876745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 822
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eba808a45a98c000800000000000000
+      internalID: 56464683729202144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 829
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9d284f8f44f95d0800000000000000
+      internalID: -3053646186289112603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 837
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9150531df2f014f30800000000000000
+      internalID: 4557940995923445017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 800
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f85bc10e37d7380800000000000000
+      internalID: -8971887476260630766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 805
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecbb2e5cf9ce4afe0800000000000000
+      internalID: -1178557031500301362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 817
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0c66100ffb870e0800000000000000
+      internalID: -2271854974471847770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 781
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf999176bc2f54b0800000000000000
+      internalID: -5449587861993447503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 787
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c6ae45856d23060800000000000000
+      internalID: 6931838451346730115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 789
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36551a0d7752e320800000000000000
+      internalID: 2585725330615785021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 707
+        width: 75
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c46ab978ae4b3130800000000000000
+      internalID: 3547515616988128454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 761
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33317d5566a015d70800000000000000
+      internalID: 9030010162497655603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 757
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d33911b0354a0860800000000000000
+      internalID: 7496880605143577560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 784
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88f92270c1763720800000000000000
+      internalID: 2825570887584577674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 751
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3780450d6646d00800000000000000
+      internalID: 965009265113199527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 759
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa1e7d2440b488d0800000000000000
+      internalID: -2844955257723806978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 753
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc95749af7c0dfc90800000000000000
+      internalID: -7134532492244592181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 758
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ca199e786a42c00800000000000000
+      internalID: 875007330286152712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 727
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a778e6b86fff1fbf0800000000000000
+      internalID: -292171066436057222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 733
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb293cff4186ea580800000000000000
+      internalID: -8813992981317840196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 727
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6bfb78bf27378a60800000000000000
+      internalID: 7676164767974423403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 727
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40649951a726ce2c0800000000000000
+      internalID: -4401034459359918588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 693
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211434783e0c31280800000000000000
+      internalID: -9073696740761976558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 694
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 714b223573a1eaa90800000000000000
+      internalID: -7300869121000688617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 689
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f992b4d88c25bc80800000000000000
+      internalID: -8307684971419362830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 693
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 223b894b97a49df90800000000000000
+      internalID: -6928424665151392990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 695
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb573351892193b60800000000000000
+      internalID: 7726227080130819516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 702
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1f85118f6b2a840800000000000000
+      internalID: 5233946893517124038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 679
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a7525a1bf554340800000000000000
+      internalID: 4847385790518753946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 669
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 728c6090c75f75ff0800000000000000
+      internalID: -47299357987911641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 687
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270e48db1e7fa4290800000000000000
+      internalID: -7905233646976180110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 671
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 780b4feeab7496dd0800000000000000
+      internalID: -2492382050574356345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 333
+        width: 351
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548f2bcd5bb6adf70800000000000000
+      internalID: 9212794416575739973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 657
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d7c2775e3d824fb0800000000000000
+      internalID: -4665010965107783721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 319
+        width: 401
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4235a97a1b450c720800000000000000
+      internalID: 2864382485005488932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 263
+        width: 419
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b97b4eb11cffd840800000000000000
+      internalID: 5251192843674548659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 644
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712ac21a03fdfa630800000000000000
+      internalID: 3940613598927954455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 657
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b5a6c869c61c560800000000000000
+      internalID: 7332261062192552838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 227
+        width: 365
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50cb3f5d25c97e260800000000000000
+      internalID: 7126836814927870981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 390
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad22f262667ff0a0800000000000000
+      internalID: -6845622743640953434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 403
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7240360bb96a05210800000000000000
+      internalID: 1319737878428976167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_86
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 375
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade0cb52e83e156a0800000000000000
+      internalID: -6462133790642008358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_87
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 324
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64e69d7ae11cb240800000000000000
+      internalID: 4808738200951907434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_88
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 341
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e5d6ea63f1160210800000000000000
+      internalID: 1298745279711204832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_89
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 345
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d78dec8be98f9b90800000000000000
+      internalID: -7232910831759030318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_90
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 326
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a32c8dd7cd5aa800800000000000000
+      internalID: 624414611341058979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_91
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 343
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc08c4b655ca3630800000000000000
+      internalID: 3907652602888195317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_92
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 343
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f8a88b53b70cb80800000000000000
+      internalID: -8376559836249551027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_93
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 351
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c62d3152f03b67c0800000000000000
+      internalID: -4077111220350671160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_94
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 388
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de2aba9f459bc7f0800000000000000
+      internalID: -591214756938240302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_95
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 233
+        width: 51
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee5171b9291ef1e0800000000000000
+      internalID: -2162263104229908758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_96
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 0
+        width: 417
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db5d3aba67389e90800000000000000
+      internalID: -7018799087726273581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_97
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 287
+        width: 11
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f125db506300bbf0800000000000000
+      internalID: -310744661896125960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_98
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 315
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec4d067cf93b090e0800000000000000
+      internalID: -2265113113741175602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_99
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 307
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca99d3f01bf012bb0800000000000000
+      internalID: -4962668061246252628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_100
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 0
+        width: 251
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f939885e37afe50800000000000000
+      internalID: 6843910013418971000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_101
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 303
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2364a221007dd06d0800000000000000
+      internalID: -3022523379591002574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_102
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 287
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf18f4ba9d9a0d600800000000000000
+      internalID: 491079111730495996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_103
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 91
+        width: 103
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58b04afa5d9bcdd0800000000000000
+      internalID: -2464703356984051619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_104
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 189
+        width: 97
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d145c3ca8d20e8a0800000000000000
+      internalID: -6277967806541250092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_105
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 287
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c985f99e2269860800000000000000
+      internalID: 7536249413247212691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_106
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 255
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d19483c45b60e460800000000000000
+      internalID: 7268927810377650641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_107
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 277
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e54a7b8d8fe1f240800000000000000
+      internalID: 4823900067099985381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_108
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 261
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2282fad2b1ca637b0800000000000000
+      internalID: -5244815483295815646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_109
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 157
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794ad059eaeb655e0800000000000000
+      internalID: -1921138533992651625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_110
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 258
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab3e3bdb5d827ba0800000000000000
+      internalID: -6092651920219030612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_111
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 204
+        width: 105
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5151a7b00aaad930800000000000000
+      internalID: 4168831325142339934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_112
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 245
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad9e78103865354d0800000000000000
+      internalID: -3147076593935455782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_113
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 191
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d736b582b6d15d9b0800000000000000
+      internalID: -5056102660577729667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_114
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 181
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96f3d879d8e391070800000000000000
+      internalID: 8077556184519622505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_115
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 183
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0042290d9f796ec00800000000000000
+      internalID: 929597472300475392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_116
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 170
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8e331395fcb77e0800000000000000
+      internalID: -1766590446828263243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_117
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 151
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a1f6f1ac01cdd30800000000000000
+      internalID: 4457456191486761584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_118
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 118
+        width: 173
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9498c44a0347858a0800000000000000
+      internalID: -6316170725123389111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_119
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 0
+        width: 151
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5966e82bac75b300800000000000000
+      internalID: 267256827465853279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_120
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 175
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c048cb69343eb1190800000000000000
+      internalID: -7990543234407562228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_121
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 111
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce22c6908a43e5720800000000000000
+      internalID: 2836762711607223020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_122
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 25
+        width: 123
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2a8d44f3cab1330800000000000000
+      internalID: 3682726508043477674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_123
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 103
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f68f9d3c8d7dab0800000000000000
+      internalID: -4983276126975004852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_124
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 127
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d4dde8ba9bd452a0800000000000000
+      internalID: -6749528483947490093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_125
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 51
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 137d944047b4bb820800000000000000
+      internalID: 2935022543822247729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_126
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 83
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691fe0db73e7973b0800000000000000
+      internalID: -5514237490878287466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_127
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 95
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0238498ac86a2e7b0800000000000000
+      internalID: -5196407896978193632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_128
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 93
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf578488b188dfc0800000000000000
+      internalID: -3469880883391537220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_129
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 43
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cba85a28613dd4a0800000000000000
+      internalID: -6567038358179501117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_130
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 75
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f9c8b60ff60bf70800000000000000
+      internalID: 9200977117105135395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_131
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 81
+        width: 69
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a069eaee5a71aab90800000000000000
+      internalID: -7229940250348448246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_132
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 0
+        width: 130
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec864f1ce6f73a4c0800000000000000
+      internalID: -4277435107394688818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_133
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 81
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76ac4f3f2bca1720800000000000000
+      internalID: 2817787920659555964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_134
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 59
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5623a7a964d19410800000000000000
+      internalID: 1482199302630745690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_135
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 31
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32787afe4ba0d170800000000000000
+      internalID: 8201243277139669564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_136
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 49
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d43f716f3b3a1e0800000000000000
+      internalID: -2187707124426781436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_137
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 39
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04cc0832184fd4c10800000000000000
+      internalID: 2039555041752304704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_138
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 43
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c788607201a760db0800000000000000
+      internalID: -4826035740888102788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_139
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 0
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e86eeadff05972d0800000000000000
+      internalID: -3280501793742755609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_140
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 33
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b396f64b09ed87d90800000000000000
+      internalID: -7099680099465729733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_141
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 33
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f841e7fa5424bd0800000000000000
+      internalID: -2647477010903560426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_142
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 33
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66cc7a7de5bdf1fe0800000000000000
+      internalID: -1216012173975237530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_143
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 13
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4797e38e8fb67220800000000000000
+      internalID: 2483382863360661325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Explosion Animation Sprite Sheet_144
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 15
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f58b000cfc5c10d0800000000000000
+      internalID: -3450780977070373384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Pixel Art Explosion Animation Sprite Sheet_0: -9041783589702601910
+      Pixel Art Explosion Animation Sprite Sheet_1: 6619885393472922016
+      Pixel Art Explosion Animation Sprite Sheet_10: -2768746832079405571
+      Pixel Art Explosion Animation Sprite Sheet_100: 6843910013418971000
+      Pixel Art Explosion Animation Sprite Sheet_101: -3022523379591002574
+      Pixel Art Explosion Animation Sprite Sheet_102: 491079111730495996
+      Pixel Art Explosion Animation Sprite Sheet_103: -2464703356984051619
+      Pixel Art Explosion Animation Sprite Sheet_104: -6277967806541250092
+      Pixel Art Explosion Animation Sprite Sheet_105: 7536249413247212691
+      Pixel Art Explosion Animation Sprite Sheet_106: 7268927810377650641
+      Pixel Art Explosion Animation Sprite Sheet_107: 4823900067099985381
+      Pixel Art Explosion Animation Sprite Sheet_108: -5244815483295815646
+      Pixel Art Explosion Animation Sprite Sheet_109: -1921138533992651625
+      Pixel Art Explosion Animation Sprite Sheet_11: 4978234690492417495
+      Pixel Art Explosion Animation Sprite Sheet_110: -6092651920219030612
+      Pixel Art Explosion Animation Sprite Sheet_111: 4168831325142339934
+      Pixel Art Explosion Animation Sprite Sheet_112: -3147076593935455782
+      Pixel Art Explosion Animation Sprite Sheet_113: -5056102660577729667
+      Pixel Art Explosion Animation Sprite Sheet_114: 8077556184519622505
+      Pixel Art Explosion Animation Sprite Sheet_115: 929597472300475392
+      Pixel Art Explosion Animation Sprite Sheet_116: -1766590446828263243
+      Pixel Art Explosion Animation Sprite Sheet_117: 4457456191486761584
+      Pixel Art Explosion Animation Sprite Sheet_118: -6316170725123389111
+      Pixel Art Explosion Animation Sprite Sheet_119: 267256827465853279
+      Pixel Art Explosion Animation Sprite Sheet_12: 5835505566429875001
+      Pixel Art Explosion Animation Sprite Sheet_120: -7990543234407562228
+      Pixel Art Explosion Animation Sprite Sheet_121: 2836762711607223020
+      Pixel Art Explosion Animation Sprite Sheet_122: 3682726508043477674
+      Pixel Art Explosion Animation Sprite Sheet_123: -4983276126975004852
+      Pixel Art Explosion Animation Sprite Sheet_124: -6749528483947490093
+      Pixel Art Explosion Animation Sprite Sheet_125: 2935022543822247729
+      Pixel Art Explosion Animation Sprite Sheet_126: -5514237490878287466
+      Pixel Art Explosion Animation Sprite Sheet_127: -5196407896978193632
+      Pixel Art Explosion Animation Sprite Sheet_128: -3469880883391537220
+      Pixel Art Explosion Animation Sprite Sheet_129: -6567038358179501117
+      Pixel Art Explosion Animation Sprite Sheet_13: -1834233797480062545
+      Pixel Art Explosion Animation Sprite Sheet_130: 9200977117105135395
+      Pixel Art Explosion Animation Sprite Sheet_131: -7229940250348448246
+      Pixel Art Explosion Animation Sprite Sheet_132: -4277435107394688818
+      Pixel Art Explosion Animation Sprite Sheet_133: 2817787920659555964
+      Pixel Art Explosion Animation Sprite Sheet_134: 1482199302630745690
+      Pixel Art Explosion Animation Sprite Sheet_135: 8201243277139669564
+      Pixel Art Explosion Animation Sprite Sheet_136: -2187707124426781436
+      Pixel Art Explosion Animation Sprite Sheet_137: 2039555041752304704
+      Pixel Art Explosion Animation Sprite Sheet_138: -4826035740888102788
+      Pixel Art Explosion Animation Sprite Sheet_139: -3280501793742755609
+      Pixel Art Explosion Animation Sprite Sheet_14: 4050530180433057720
+      Pixel Art Explosion Animation Sprite Sheet_140: -7099680099465729733
+      Pixel Art Explosion Animation Sprite Sheet_141: -2647477010903560426
+      Pixel Art Explosion Animation Sprite Sheet_142: -1216012173975237530
+      Pixel Art Explosion Animation Sprite Sheet_143: 2483382863360661325
+      Pixel Art Explosion Animation Sprite Sheet_144: -3450780977070373384
+      Pixel Art Explosion Animation Sprite Sheet_15: 6981124150333476454
+      Pixel Art Explosion Animation Sprite Sheet_16: 4627210890483990825
+      Pixel Art Explosion Animation Sprite Sheet_17: 4084029688348401073
+      Pixel Art Explosion Animation Sprite Sheet_18: -7642310932388364925
+      Pixel Art Explosion Animation Sprite Sheet_19: 776335023986398792
+      Pixel Art Explosion Animation Sprite Sheet_2: -7204945186768138124
+      Pixel Art Explosion Animation Sprite Sheet_20: -7560290511590563846
+      Pixel Art Explosion Animation Sprite Sheet_21: 1046340485507761133
+      Pixel Art Explosion Animation Sprite Sheet_22: 6039969948278828354
+      Pixel Art Explosion Animation Sprite Sheet_23: 6187982744505280393
+      Pixel Art Explosion Animation Sprite Sheet_24: -6165523991496185122
+      Pixel Art Explosion Animation Sprite Sheet_25: 8591207930509230969
+      Pixel Art Explosion Animation Sprite Sheet_26: 2083916757773376703
+      Pixel Art Explosion Animation Sprite Sheet_27: -7426323724505659498
+      Pixel Art Explosion Animation Sprite Sheet_28: -8228919183733407684
+      Pixel Art Explosion Animation Sprite Sheet_29: -2298567301360187352
+      Pixel Art Explosion Animation Sprite Sheet_3: -6235781869938632394
+      Pixel Art Explosion Animation Sprite Sheet_30: -3707857100831592441
+      Pixel Art Explosion Animation Sprite Sheet_31: 6600386756764250817
+      Pixel Art Explosion Animation Sprite Sheet_32: -1623904028770419414
+      Pixel Art Explosion Animation Sprite Sheet_33: 5356383226868294975
+      Pixel Art Explosion Animation Sprite Sheet_34: -7452195970057405746
+      Pixel Art Explosion Animation Sprite Sheet_35: 7840912392077421372
+      Pixel Art Explosion Animation Sprite Sheet_36: 7215154517039872890
+      Pixel Art Explosion Animation Sprite Sheet_37: 8893491902665674919
+      Pixel Art Explosion Animation Sprite Sheet_38: -725969474458054627
+      Pixel Art Explosion Animation Sprite Sheet_39: 3368805473717741852
+      Pixel Art Explosion Animation Sprite Sheet_4: -2557611200427204120
+      Pixel Art Explosion Animation Sprite Sheet_40: -6633262478332235587
+      Pixel Art Explosion Animation Sprite Sheet_41: -1990473574702379718
+      Pixel Art Explosion Animation Sprite Sheet_42: 9053210142043954653
+      Pixel Art Explosion Animation Sprite Sheet_43: 1296508349492080721
+      Pixel Art Explosion Animation Sprite Sheet_44: 4459732896119630288
+      Pixel Art Explosion Animation Sprite Sheet_45: -5828913747733876745
+      Pixel Art Explosion Animation Sprite Sheet_46: 56464683729202144
+      Pixel Art Explosion Animation Sprite Sheet_47: -3053646186289112603
+      Pixel Art Explosion Animation Sprite Sheet_48: 4557940995923445017
+      Pixel Art Explosion Animation Sprite Sheet_49: -8971887476260630766
+      Pixel Art Explosion Animation Sprite Sheet_5: 2682571909007989113
+      Pixel Art Explosion Animation Sprite Sheet_50: -1178557031500301362
+      Pixel Art Explosion Animation Sprite Sheet_51: -2271854974471847770
+      Pixel Art Explosion Animation Sprite Sheet_52: -5449587861993447503
+      Pixel Art Explosion Animation Sprite Sheet_53: 6931838451346730115
+      Pixel Art Explosion Animation Sprite Sheet_54: 2585725330615785021
+      Pixel Art Explosion Animation Sprite Sheet_55: 3547515616988128454
+      Pixel Art Explosion Animation Sprite Sheet_56: 9030010162497655603
+      Pixel Art Explosion Animation Sprite Sheet_57: 7496880605143577560
+      Pixel Art Explosion Animation Sprite Sheet_58: 2825570887584577674
+      Pixel Art Explosion Animation Sprite Sheet_59: 965009265113199527
+      Pixel Art Explosion Animation Sprite Sheet_6: 7897555787795121287
+      Pixel Art Explosion Animation Sprite Sheet_60: -2844955257723806978
+      Pixel Art Explosion Animation Sprite Sheet_61: -7134532492244592181
+      Pixel Art Explosion Animation Sprite Sheet_62: 875007330286152712
+      Pixel Art Explosion Animation Sprite Sheet_63: -292171066436057222
+      Pixel Art Explosion Animation Sprite Sheet_64: -8813992981317840196
+      Pixel Art Explosion Animation Sprite Sheet_65: 7676164767974423403
+      Pixel Art Explosion Animation Sprite Sheet_66: -4401034459359918588
+      Pixel Art Explosion Animation Sprite Sheet_67: -9073696740761976558
+      Pixel Art Explosion Animation Sprite Sheet_68: -7300869121000688617
+      Pixel Art Explosion Animation Sprite Sheet_69: -8307684971419362830
+      Pixel Art Explosion Animation Sprite Sheet_7: 5327918407384963414
+      Pixel Art Explosion Animation Sprite Sheet_70: -6928424665151392990
+      Pixel Art Explosion Animation Sprite Sheet_71: 7726227080130819516
+      Pixel Art Explosion Animation Sprite Sheet_72: 5233946893517124038
+      Pixel Art Explosion Animation Sprite Sheet_73: 4847385790518753946
+      Pixel Art Explosion Animation Sprite Sheet_74: -47299357987911641
+      Pixel Art Explosion Animation Sprite Sheet_75: -7905233646976180110
+      Pixel Art Explosion Animation Sprite Sheet_76: -2492382050574356345
+      Pixel Art Explosion Animation Sprite Sheet_77: 9212794416575739973
+      Pixel Art Explosion Animation Sprite Sheet_78: -4665010965107783721
+      Pixel Art Explosion Animation Sprite Sheet_79: 2864382485005488932
+      Pixel Art Explosion Animation Sprite Sheet_8: -8048280789697794284
+      Pixel Art Explosion Animation Sprite Sheet_80: 5251192843674548659
+      Pixel Art Explosion Animation Sprite Sheet_81: 3940613598927954455
+      Pixel Art Explosion Animation Sprite Sheet_82: 7332261062192552838
+      Pixel Art Explosion Animation Sprite Sheet_83: 7126836814927870981
+      Pixel Art Explosion Animation Sprite Sheet_84: -6845622743640953434
+      Pixel Art Explosion Animation Sprite Sheet_85: 1319737878428976167
+      Pixel Art Explosion Animation Sprite Sheet_86: -6462133790642008358
+      Pixel Art Explosion Animation Sprite Sheet_87: 4808738200951907434
+      Pixel Art Explosion Animation Sprite Sheet_88: 1298745279711204832
+      Pixel Art Explosion Animation Sprite Sheet_89: -7232910831759030318
+      Pixel Art Explosion Animation Sprite Sheet_9: -3393088880363699046
+      Pixel Art Explosion Animation Sprite Sheet_90: 624414611341058979
+      Pixel Art Explosion Animation Sprite Sheet_91: 3907652602888195317
+      Pixel Art Explosion Animation Sprite Sheet_92: -8376559836249551027
+      Pixel Art Explosion Animation Sprite Sheet_93: -4077111220350671160
+      Pixel Art Explosion Animation Sprite Sheet_94: -591214756938240302
+      Pixel Art Explosion Animation Sprite Sheet_95: -2162263104229908758
+      Pixel Art Explosion Animation Sprite Sheet_96: -7018799087726273581
+      Pixel Art Explosion Animation Sprite Sheet_97: -310744661896125960
+      Pixel Art Explosion Animation Sprite Sheet_98: -2265113113741175602
+      Pixel Art Explosion Animation Sprite Sheet_99: -4962668061246252628
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

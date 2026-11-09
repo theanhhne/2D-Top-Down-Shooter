@@ -4,6 +4,12 @@ using UnityEngine;
 
 public class Bullet : MonoBehaviour
 {
+    [SerializeField]
+    private float _knockbackStrength = 3f;
+
+    [SerializeField]
+    private GameObject _hitEffectPrefab;
+
     private Camera _camera;
 
     private void Awake()
@@ -18,10 +24,18 @@ public class Bullet : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.GetComponent<EnemyMovement>())
+        EnemyMovement enemyMovement = collision.GetComponent<EnemyMovement>();
+        if (enemyMovement != null)
         {
+            enemyMovement.ApplyKnockback(transform.up, _knockbackStrength);
             HealthController healthController = collision.GetComponent<HealthController>();
             healthController.TakeDamage(10);
+
+            if (_hitEffectPrefab != null)
+            {
+                Instantiate(_hitEffectPrefab, transform.position, Quaternion.identity);
+            }
+
             Destroy(gameObject);
         }
     }
@@ -35,6 +49,7 @@ public class Bullet : MonoBehaviour
             screenPosition.y < 0 ||
             screenPosition.y > _camera.pixelHeight)
         {
+
             Destroy(gameObject);
         }
     }
