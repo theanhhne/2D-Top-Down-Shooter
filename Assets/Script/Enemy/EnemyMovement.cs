@@ -11,9 +11,6 @@ public class EnemyMovement : MonoBehaviour
     private float _rotationSpeed;
 
     [SerializeField]
-    private float _screenBorder;
-
-    [SerializeField]
     private float _knockbackDuration = 0.12f;
 
     [SerializeField, Range(0f, 1f)]
@@ -26,7 +23,6 @@ public class EnemyMovement : MonoBehaviour
     private PlayerAwareness _playerAwarenessController;
     private Vector2 _targetDirection;
     private float _changeDirectionCooldown;
-    private Camera _camera;
     private Vector2 _knockbackVelocity;
 
     private void Awake()
@@ -34,7 +30,6 @@ public class EnemyMovement : MonoBehaviour
         _rigidbody = GetComponent<Rigidbody2D>();
         _playerAwarenessController = GetComponent<PlayerAwareness>();
         _targetDirection = transform.up;
-        _camera = Camera.main;
     }
 
     private void FixedUpdate()
@@ -49,7 +44,7 @@ public class EnemyMovement : MonoBehaviour
     {
         HandleRandomDirectionChange();
         HandlePlayerTargeting();
-        HandleEnemyOffScreen();
+        HandleEnemyOutOfBounds();
     }
 
     private void HandleRandomDirectionChange()
@@ -74,18 +69,23 @@ public class EnemyMovement : MonoBehaviour
         }
     }
 
-    private void HandleEnemyOffScreen()
+    // Enemy bật lại khi ra ngoài ArenaBounds và đang đi ra xa. Enemy spawn bên ngoài biên
+    // (spawner đặt ngoài map) vẫn đi vào bình thường vì hướng của chúng đang quay vào trong.
+    private void HandleEnemyOutOfBounds()
     {
-        Vector2 screenPosition = _camera.WorldToScreenPoint(transform.position);
+        ArenaBounds arena = ArenaBounds.Instance;
+        if (arena == null) return;
 
-        if ((screenPosition.x < _screenBorder && _targetDirection.x < 0) ||
-            (screenPosition.x > _camera.pixelWidth - _screenBorder && _targetDirection.x > 0))
+        Vector2 position = transform.position;
+
+        if ((position.x < arena.Min.x && _targetDirection.x < 0f) ||
+            (position.x > arena.Max.x && _targetDirection.x > 0f))
         {
             _targetDirection = new Vector2(-_targetDirection.x, _targetDirection.y);
         }
 
-        if ((screenPosition.y < _screenBorder && _targetDirection.y < 0) ||
-            (screenPosition.y > _camera.pixelHeight - _screenBorder && _targetDirection.y > 0))
+        if ((position.y < arena.Min.y && _targetDirection.y < 0f) ||
+            (position.y > arena.Max.y && _targetDirection.y > 0f))
         {
             _targetDirection = new Vector2(_targetDirection.x, -_targetDirection.y);
         }

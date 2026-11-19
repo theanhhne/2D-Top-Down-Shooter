@@ -12,7 +12,8 @@ public class PlayerMovement : MonoBehaviour
     private float _rotationSpeed;
 
     [SerializeField]
-    private float _screenBorder;
+    [Tooltip("Khoảng cách giữ lại giữa người chơi và mép ArenaBounds (đơn vị world).")]
+    private float _boundsPadding = 0.6f;
 
     private Rigidbody2D _rigidbody;
     private Vector2 _movementInput;
@@ -21,6 +22,7 @@ public class PlayerMovement : MonoBehaviour
     private Camera _camera;
     private Animator _animator;
     private float _speedMultiplier = 1f;
+    private bool _warnedNoArena;
 
     public float SpeedMultiplier
     {
@@ -63,29 +65,53 @@ public class PlayerMovement : MonoBehaviour
                     ref _movementInputSmoothVelocity,
                     0.1f);
 
-      Vector2 moveDirection =
-    (Vector2)transform.right * _smoothedMovementInput.x +
-    (Vector2)transform.up * _smoothedMovementInput.y;
+        Vector2 moveDirection = _smoothedMovementInput;
 
 _rigidbody.linearVelocity = moveDirection * (_speed * _speedMultiplier);
 
-        PreventPlayerGoingOffScreen();
+        ConstrainToArena();
     }
 
-    private void PreventPlayerGoingOffScreen()
+    private void ConstrainToArena()
     {
-        Vector2 screenPosition = _camera.WorldToScreenPoint(transform.position);
-
-        if ((screenPosition.x < _screenBorder && _rigidbody.linearVelocity.x < 0) ||
-            (screenPosition.x > _camera.pixelWidth - _screenBorder && _rigidbody.linearVelocity.x > 0))
+        ArenaBounds arena = ArenaBounds.Instance;
+        if (arena == null)
         {
-            _rigidbody.linearVelocity = new Vector2(0, _rigidbody.linearVelocity.y);
+            if (!_warnedNoArena)
+            {
+                _warnedNoArena = true;
+                Debug.LogWarning("PlayerMovement: không tìm thấy ArenaBounds trong scene, người chơi sẽ không bị giới hạn.", this);
+            }
+            return;
         }
 
-        if ((screenPosition.y < _screenBorder && _rigidbody.linearVelocity.y < 0) ||
-            (screenPosition.y > _camera.pixelHeight - _screenBorder && _rigidbody.linearVelocity.y > 0))
+        Vector2 min = arena.Min + Vector2.one * _boundsPadding;
+        Vector2 max = arena.Max - Vector2.one * _boundsPadding;
+
+        Vector2 position = _rigidbody.position;
+        Vector2 velocity = _rigidbody.linearVelocity;
+
+        // Chạm biên thì chặn thành phần vận tốc đang đẩy ra ngoài (vẫn trượt dọc theo biên).
+        if ((position.x <= min.x && velocity.x < 0f) || (position.x >= max.x && velocity.x > 0f))
         {
-            _rigidbody.linearVelocity = new Vector2(_rigidbody.linearVelocity.x, 0);
+            velocity.x = 0f;
+        }
+
+        if ((position.y <= min.y && velocity.y < 0f) || (position.y >= max.y && velocity.y > 0f))
+        {
+            velocity.y = 0f;
+        }
+
+        _rigidbody.linearVelocity = velocity;
+
+        // Phòng trường hợp bị đẩy lố (knockback, va chạm) ra ngoài biên.
+        Vector2 clamped = new Vector2(
+            Mathf.Clamp(position.x, min.x, max.x),
+            Mathf.Clamp(position.y, min.y, max.y));
+
+        if (clamped != position)
+        {
+            _rigidbody.position = clamped;
         }
     }
 

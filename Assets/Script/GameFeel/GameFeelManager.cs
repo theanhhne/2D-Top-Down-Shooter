@@ -6,10 +6,9 @@ public class GameFeelManager : MonoBehaviour
     public static GameFeelManager Instance { get; private set; }
 
     [Header("Camera Settings")]
-    [SerializeField] private Camera targetCamera;
+    [SerializeField] private CameraFollow cameraFollow;
 
     private Coroutine _shakeCoroutine;
-    private Vector3 _originalLocalPos;
 
     private Coroutine _hitStopCoroutine;
     private bool _isHitStopping;
@@ -25,58 +24,41 @@ public class GameFeelManager : MonoBehaviour
 
         Instance = this;
 
-        if (targetCamera == null)
+        if (cameraFollow == null && Camera.main != null)
         {
-            targetCamera = Camera.main;
-        }
-
-        if (targetCamera != null)
-        {
-            _originalLocalPos = targetCamera.transform.localPosition;
+            cameraFollow = Camera.main.GetComponent<CameraFollow>();
         }
     }
 
     public void Shake(float duration, float magnitude)
     {
-        if (duration <= 0f || magnitude <= 0f)
+        if (duration <= 0f || magnitude <= 0f || cameraFollow == null)
             return;
-
-        if (targetCamera == null)
-        {
-            targetCamera = Camera.main;
-            if (targetCamera == null)
-                return;
-            _originalLocalPos = targetCamera.transform.localPosition;
-        }
 
         if (_shakeCoroutine != null)
         {
             StopCoroutine(_shakeCoroutine);
-            targetCamera.transform.localPosition = _originalLocalPos;
-        }
-        else
-        {
-            _originalLocalPos = targetCamera.transform.localPosition;
         }
 
         _shakeCoroutine = StartCoroutine(ShakeRoutine(duration, magnitude));
     }
 
+    // Rung chỉ ghi vào ShakeOffset; CameraFollow cộng offset này lên vị trí camera,
+    // nên rung và theo dõi không còn tranh nhau transform.
     private IEnumerator ShakeRoutine(float duration, float magnitude)
     {
         float elapsed = 0f;
 
         while (elapsed < duration)
         {
-            float x = Random.Range(-1f, 1f) * magnitude;
-            float y = Random.Range(-1f, 1f) * magnitude;
-            targetCamera.transform.localPosition = _originalLocalPos + new Vector3(x, y, 0f);
+            float fade = 1f - Mathf.Clamp01(elapsed / duration); // giảm dần về 0
+            cameraFollow.ShakeOffset = (Vector3)(Random.insideUnitCircle * (magnitude * fade));
 
             elapsed += Time.unscaledDeltaTime;
             yield return null;
         }
 
-        targetCamera.transform.localPosition = _originalLocalPos;
+        cameraFollow.ShakeOffset = Vector3.zero;
         _shakeCoroutine = null;
     }
 
@@ -137,10 +119,11 @@ public class GameFeelManager : MonoBehaviour
         {
             StopCoroutine(_shakeCoroutine);
             _shakeCoroutine = null;
-            if (targetCamera != null)
-            {
-                targetCamera.transform.localPosition = _originalLocalPos;
-            }
+        }
+
+        if (cameraFollow != null)
+        {
+            cameraFollow.ShakeOffset = Vector3.zero;
         }
 
         ResetHitStop();
